@@ -1,0 +1,6913 @@
+{
+    "makes": [
+        "Alfa Romeo",
+        "Audi",
+        "BMW",
+        "Bentley",
+        "Byd",
+        "Chevrolet",
+        "Chrysler",
+        "Citroën",
+        "Cupra",
+        "DS",
+        "Dacia",
+        "Daewoo",
+        "Dodge",
+        "Dongfeng",
+        "Fiat",
+        "Ford",
+        "Genesis",
+        "Honda",
+        "Hyundai",
+        "Infiniti",
+        "Jaguar",
+        "Jeep",
+        "Kia",
+        "Lada",
+        "Lancia",
+        "Land Rover",
+        "Lexus",
+        "MG",
+        "MINI",
+        "Man",
+        "Mazda",
+        "Mercedes Benz",
+        "Mitsubishi",
+        "Nissan",
+        "Opel",
+        "Peugeot",
+        "Porsche",
+        "Renault",
+        "Rising",
+        "Saab",
+        "Seat",
+        "Smart",
+        "SsangYong",
+        "Subaru",
+        "Suzuki",
+        "Tesla",
+        "Toyota",
+        "Volkswagen",
+        "Volvo",
+        "Škoda"
+    ],
+    "models": [
+        "1",
+        "100",
+        "105",
+        "107",
+        "108",
+        "120",
+        "156",
+        "159",
+        "2",
+        "2 Active Tourer",
+        "2 Gran Coupe",
+        "2 Gran Tourer",
+        "2008",
+        "206",
+        "207",
+        "208",
+        "3",
+        "3 Crossback",
+        "3 Door",
+        "3008",
+        "301",
+        "307",
+        "308",
+        "323",
+        "3gt",
+        "4",
+        "4 Crossback",
+        "4 Gran Coupe",
+        "4007",
+        "4008",
+        "407",
+        "5",
+        "5 Door",
+        "500",
+        "500 L",
+        "5008",
+        "500e",
+        "500l",
+        "500x",
+        "508",
+        "5gt",
+        "6",
+        "6 Gran Coupe",
+        "607",
+        "6gt",
+        "7",
+        "7 Crossback",
+        "807",
+        "9 3",
+        "911",
+        "924",
+        "99",
+        "A",
+        "A1",
+        "A2",
+        "A3",
+        "A4",
+        "A4 Allroad",
+        "A5",
+        "A6",
+        "A6 Allroad",
+        "A7",
+        "A8",
+        "Accent",
+        "Accord",
+        "Adam",
+        "Agila",
+        "Alhambra",
+        "Almera",
+        "Altea",
+        "Altea Xl",
+        "Alto",
+        "Amarok",
+        "Antara",
+        "Ariya",
+        "Arkana",
+        "Arona",
+        "Arteon",
+        "Astra",
+        "Asx",
+        "Ateca",
+        "Atos",
+        "Auris",
+        "Austral",
+        "Avensis",
+        "Aveo",
+        "Aygo",
+        "B",
+        "B Max",
+        "Bayon",
+        "Beetle",
+        "Berlingo",
+        "Bora",
+        "Born",
+        "Boxer",
+        "Bravo",
+        "C",
+        "C Crosser",
+        "C Elysee",
+        "C Hr",
+        "C Max",
+        "C1",
+        "C2",
+        "C3",
+        "C3 Aircross",
+        "C3 Picasso",
+        "C30",
+        "C4",
+        "C4 Aircross",
+        "C4 Cactus",
+        "C4 Grand Picasso",
+        "C4 Grand Spacetourer",
+        "C4 Picasso",
+        "C4 Spacetourer",
+        "C4 X",
+        "C40",
+        "C5",
+        "C5 Aircross",
+        "C8",
+        "Caddy",
+        "Camaro",
+        "Camry",
+        "Capri",
+        "Captiva",
+        "Captur",
+        "Caravelle",
+        "Carens",
+        "Carnival",
+        "Cayenne",
+        "Cc",
+        "Ceed",
+        "Cherokee",
+        "Chevy Van G20",
+        "Citan",
+        "Citigo",
+        "Citigo E",
+        "Civic",
+        "Cla",
+        "Clc",
+        "Clio",
+        "Clk",
+        "Cls",
+        "Clubman",
+        "Colt",
+        "Combo",
+        "Commander",
+        "Compass",
+        "Continental",
+        "Cooper",
+        "Cordoba",
+        "Corolla",
+        "Corolla Cross",
+        "Corolla Verso",
+        "Corsa",
+        "Corsa E",
+        "Countryman",
+        "Cr V",
+        "Crafter",
+        "Croma",
+        "Crossland",
+        "Crossland X",
+        "Cruze",
+        "Cx 3",
+        "Cx 30",
+        "Cx 5",
+        "Cx 60",
+        "Cx 7",
+        "Cx 9",
+        "Defender",
+        "Delta",
+        "Discovery",
+        "Discovery Sport",
+        "Doblo",
+        "Dokker",
+        "Ds3",
+        "Ds3 Crossback",
+        "Ds4",
+        "Ds5",
+        "Ducato",
+        "Durango",
+        "Duster",
+        "E",
+        "E 208",
+        "E C4",
+        "E Golf",
+        "E Niro",
+        "E Pace",
+        "E Rifter",
+        "E Soul",
+        "E Tron",
+        "E Tron Sportback",
+        "E Up!",
+        "E:Ny1",
+        "Eclipse Cross",
+        "Ecosport",
+        "Edge",
+        "Elantra",
+        "Enyaq",
+        "Eos",
+        "Epica",
+        "Es",
+        "Espace",
+        "Ev6",
+        "Evoque",
+        "Exeo",
+        "Expert",
+        "F Pace",
+        "Fabia",
+        "Favorit",
+        "Felicia",
+        "Fiesta",
+        "Fluence",
+        "Focus",
+        "Forester",
+        "Forfour",
+        "Formentor",
+        "Forthing T5 Evo",
+        "Fortwo",
+        "Fox",
+        "Freelander",
+        "Freemont",
+        "Fullback",
+        "Fulvia",
+        "Fusion",
+        "G",
+        "G70",
+        "Galaxy",
+        "Getz",
+        "Giulia",
+        "Giulietta",
+        "Gl",
+        "Gla",
+        "Gladiator",
+        "Glb",
+        "Glc",
+        "Glc Coupe",
+        "Gle",
+        "Gle Coupe",
+        "Glk",
+        "Gls",
+        "Golf",
+        "Golf Plus",
+        "Golf Sportsvan",
+        "Grand C Max",
+        "Grand C4 Spacetourer",
+        "Grand Cherokee",
+        "Grand Santa Fe",
+        "Grand Scenic",
+        "Grand Vitara",
+        "Grandis",
+        "Grandland",
+        "Grandland X",
+        "H 1",
+        "H 1 Tour",
+        "H350",
+        "Hilux",
+        "Hr V",
+        "Hs",
+        "I10",
+        "I20",
+        "I3",
+        "I30",
+        "I30 Fastback",
+        "I40",
+        "Ibiza",
+        "Id.3",
+        "Id.4",
+        "Id.5",
+        "Ignis",
+        "Impreza",
+        "Insignia",
+        "Ioniq",
+        "Ioniq 5",
+        "Ix",
+        "Ix1",
+        "Ix20",
+        "Ix35",
+        "Ix55",
+        "Jazz",
+        "Jetta",
+        "Jimny",
+        "Jogger",
+        "Juke",
+        "Jumper",
+        "Jumpy",
+        "Ka",
+        "Kadjar",
+        "Kalos",
+        "Kamiq",
+        "Kangoo",
+        "Karoq",
+        "Kodiaq",
+        "Koleos",
+        "Kona",
+        "Korando",
+        "Kuga",
+        "L200",
+        "Lacetti",
+        "Laguna",
+        "Lancer",
+        "Land Cruiser",
+        "Latitude",
+        "Leaf",
+        "Legacy",
+        "Leon",
+        "Linea",
+        "Lodgy",
+        "Logan",
+        "M3",
+        "Malibu",
+        "Master",
+        "Matrix",
+        "Megane",
+        "Meriva",
+        "Micra",
+        "Mirai",
+        "Ml",
+        "Model 3",
+        "Model S",
+        "Model Y",
+        "Modus",
+        "Mokka",
+        "Mondeo",
+        "Movano",
+        "Multivan",
+        "Musso",
+        "Mustang",
+        "Mx",
+        "Mx 30",
+        "Navara",
+        "Nemo",
+        "New Beetle",
+        "Niro",
+        "Niva",
+        "Note",
+        "Nubira",
+        "Nx",
+        "Octavia",
+        "Octavia Scout",
+        "Omega",
+        "One",
+        "Optima",
+        "Orlando",
+        "Outback",
+        "Outlander",
+        "Pajero",
+        "Pajero Sport",
+        "Panamera",
+        "Panda",
+        "Partner",
+        "Passat",
+        "Passat Cc",
+        "Pathfinder",
+        "Picanto",
+        "Pixo",
+        "Polo",
+        "Praktik",
+        "Primera",
+        "Prius",
+        "Proace",
+        "Proace City",
+        "Proace City Verso",
+        "Proace Verso",
+        "Proceed",
+        "Pt Cruiser",
+        "Pulsar",
+        "Puma",
+        "Punto",
+        "Punto Evo",
+        "Q2",
+        "Q3",
+        "Q3 Sportback",
+        "Q5",
+        "Q5 Sportback",
+        "Q50",
+        "Q7",
+        "Q8",
+        "Qashqai",
+        "Qashqai+2",
+        "Qubo",
+        "Qx70",
+        "R",
+        "R7",
+        "Rada 1",
+        "Rada 3",
+        "Rada 4",
+        "Rada 5",
+        "Range Rover",
+        "Range Rover Evoque",
+        "Range Rover Sport",
+        "Range Rover Velar",
+        "Ranger",
+        "Ranger Raptor",
+        "Rapid",
+        "Rapid Spaceback",
+        "Rav4",
+        "Renegade",
+        "Rexton",
+        "Rifter",
+        "Rio",
+        "Roomster",
+        "Rs Q8",
+        "Rx300",
+        "S",
+        "S Cross",
+        "S Max",
+        "S3",
+        "S6",
+        "S60",
+        "S80",
+        "S90",
+        "Sandero",
+        "Santa Fe",
+        "Scala",
+        "Scenic",
+        "Scirocco",
+        "Scudo",
+        "Seagull",
+        "Sedici",
+        "Sharan",
+        "Sl",
+        "Slk",
+        "Sonata",
+        "Sorento",
+        "Soul",
+        "Space Star",
+        "Spacetourer",
+        "Spark",
+        "Sportage",
+        "Sportsvan",
+        "Spring",
+        "Sprinter",
+        "Sq7",
+        "Stelvio",
+        "Stilo",
+        "Stonic",
+        "Superb",
+        "Swace",
+        "Swift",
+        "Sx4",
+        "Sx4 S Cross",
+        "Symbioz",
+        "T Cross",
+        "T Roc",
+        "Taigo",
+        "Talento",
+        "Talisman",
+        "Tarraco",
+        "Terracan",
+        "Tge",
+        "Thalia",
+        "Thema",
+        "Tiguan",
+        "Tiguan Allspace",
+        "Tiida",
+        "Tipo",
+        "Tivoli",
+        "Toledo",
+        "Tonale",
+        "Torres",
+        "Touareg",
+        "Touran",
+        "Tourneo Connect",
+        "Tourneo Courier",
+        "Tourneo Custom",
+        "Townstar",
+        "Trafic",
+        "Trajet",
+        "Transit",
+        "Transit Connect",
+        "Transit Courier",
+        "Transit Custom",
+        "Transporter",
+        "Traveller",
+        "Trax",
+        "Trida A",
+        "Trida B",
+        "Trida C",
+        "Trida E",
+        "Trida M",
+        "Tt",
+        "Tt Coupe",
+        "Tucson",
+        "Twingo",
+        "U Tour",
+        "Up",
+        "Up!",
+        "V",
+        "V40",
+        "V50",
+        "V60",
+        "V60 Cross Country",
+        "V70",
+        "V90",
+        "V90 Cross Country",
+        "Vectra",
+        "Venga",
+        "Verso",
+        "Viano",
+        "Vitara",
+        "Vito",
+        "Vivaro",
+        "Voyager",
+        "Wrangler",
+        "X",
+        "X Trail",
+        "X1",
+        "X2",
+        "X3",
+        "X4",
+        "X5",
+        "X6",
+        "X7",
+        "Xantia",
+        "Xc40",
+        "Xc60",
+        "Xc70",
+        "Xc90",
+        "Xceed",
+        "Xe",
+        "Xf",
+        "Xj",
+        "Xsara",
+        "Xsara Picasso",
+        "Xv",
+        "Yaris",
+        "Yaris Cross",
+        "Yeti",
+        "Zafira",
+        "Zafira Life",
+        "Zafira Tourer",
+        "Zoe",
+        "Zs",
+        "Zs Suv"
+    ],
+    "fuel_types": [
+        "Battery EV (BEV)",
+        "Benzín",
+        "CNG",
+        "Diesel",
+        "Ethanol",
+        "Fuel Cell EV (FCEV)Elektromobil poháněný vodíkovým palivovým článkem. Má tichý provoz s nulovými lokálními emisemi stejně jako bateriový elektromobil, místo dobíjení baterie ale doplňuje vodík u speciální čerpací stanice.Elektro (FCEV)",
+        "Full-Hybrid (FHEV)",
+        "LPG",
+        "Mild-Hybrid (MHEV)",
+        "Plug-in Hybrid (PHEV)"
+    ],
+    "transmissions": [
+        "A",
+        "M"
+    ],
+    "body_types": [
+        "B",
+        "C",
+        "CAB",
+        "CPE",
+        "FR",
+        "H",
+        "MPV",
+        "OFF",
+        "P",
+        "S",
+        "SUV",
+        "V",
+        "VA"
+    ],
+    "make_model_map": {
+        "Alfa Romeo": [
+            "156",
+            "159",
+            "Giulia",
+            "Giulietta",
+            "Stelvio",
+            "Tonale"
+        ],
+        "Audi": [
+            "100",
+            "A1",
+            "A2",
+            "A3",
+            "A4",
+            "A4 Allroad",
+            "A5",
+            "A6",
+            "A6 Allroad",
+            "A7",
+            "A8",
+            "E Tron",
+            "E Tron Sportback",
+            "Q2",
+            "Q3",
+            "Q3 Sportback",
+            "Q5",
+            "Q5 Sportback",
+            "Q7",
+            "Q8",
+            "Rs Q8",
+            "S3",
+            "S6",
+            "Sq7",
+            "Tt",
+            "Tt Coupe"
+        ],
+        "BMW": [
+            "1",
+            "2",
+            "2 Active Tourer",
+            "2 Gran Coupe",
+            "2 Gran Tourer",
+            "3",
+            "3gt",
+            "4",
+            "4 Gran Coupe",
+            "5",
+            "5gt",
+            "6 Gran Coupe",
+            "6gt",
+            "7",
+            "I3",
+            "Ix",
+            "Ix1",
+            "M3",
+            "Rada 1",
+            "Rada 3",
+            "Rada 4",
+            "Rada 5",
+            "X1",
+            "X2",
+            "X3",
+            "X4",
+            "X5",
+            "X6",
+            "X7"
+        ],
+        "Bentley": [
+            "Continental"
+        ],
+        "Byd": [
+            "Seagull"
+        ],
+        "Chevrolet": [
+            "Aveo",
+            "Camaro",
+            "Captiva",
+            "Chevy Van G20",
+            "Cruze",
+            "Epica",
+            "Kalos",
+            "Lacetti",
+            "Malibu",
+            "Nubira",
+            "Orlando",
+            "Spark",
+            "Trax"
+        ],
+        "Chrysler": [
+            "Pt Cruiser",
+            "Voyager"
+        ],
+        "Citroën": [
+            "Berlingo",
+            "C Crosser",
+            "C Elysee",
+            "C1",
+            "C2",
+            "C3",
+            "C3 Aircross",
+            "C3 Picasso",
+            "C4",
+            "C4 Aircross",
+            "C4 Cactus",
+            "C4 Grand Picasso",
+            "C4 Grand Spacetourer",
+            "C4 Picasso",
+            "C4 Spacetourer",
+            "C4 X",
+            "C5",
+            "C5 Aircross",
+            "C8",
+            "Ds3",
+            "Ds4",
+            "Ds5",
+            "E C4",
+            "Grand C4 Spacetourer",
+            "Jumper",
+            "Jumpy",
+            "Nemo",
+            "Spacetourer",
+            "Xantia",
+            "Xsara",
+            "Xsara Picasso"
+        ],
+        "Cupra": [
+            "Born",
+            "Formentor",
+            "Leon"
+        ],
+        "DS": [
+            "3 Crossback",
+            "4",
+            "4 Crossback",
+            "5",
+            "7 Crossback",
+            "Ds3",
+            "Ds3 Crossback",
+            "Ds4"
+        ],
+        "Dacia": [
+            "Dokker",
+            "Duster",
+            "Jogger",
+            "Lodgy",
+            "Logan",
+            "Sandero",
+            "Spring"
+        ],
+        "Daewoo": [
+            "Kalos"
+        ],
+        "Dodge": [
+            "Durango"
+        ],
+        "Dongfeng": [
+            "Forthing T5 Evo",
+            "U Tour"
+        ],
+        "Fiat": [
+            "500",
+            "500 L",
+            "500e",
+            "500l",
+            "500x",
+            "Bravo",
+            "Croma",
+            "Doblo",
+            "Ducato",
+            "Freemont",
+            "Fullback",
+            "Linea",
+            "Panda",
+            "Punto",
+            "Punto Evo",
+            "Qubo",
+            "Scudo",
+            "Sedici",
+            "Stilo",
+            "Talento",
+            "Tipo"
+        ],
+        "Ford": [
+            "B Max",
+            "C Max",
+            "Capri",
+            "Ecosport",
+            "Edge",
+            "Fiesta",
+            "Focus",
+            "Fusion",
+            "Galaxy",
+            "Grand C Max",
+            "Ka",
+            "Kuga",
+            "Mondeo",
+            "Mustang",
+            "Puma",
+            "Ranger",
+            "Ranger Raptor",
+            "S Max",
+            "Tourneo Connect",
+            "Tourneo Courier",
+            "Tourneo Custom",
+            "Transit",
+            "Transit Connect",
+            "Transit Courier",
+            "Transit Custom"
+        ],
+        "Genesis": [
+            "G70"
+        ],
+        "Honda": [
+            "Accord",
+            "Civic",
+            "Cr V",
+            "E:Ny1",
+            "Hr V",
+            "Jazz"
+        ],
+        "Hyundai": [
+            "Accent",
+            "Atos",
+            "Bayon",
+            "Elantra",
+            "Getz",
+            "Grand Santa Fe",
+            "H 1",
+            "H 1 Tour",
+            "H350",
+            "I10",
+            "I20",
+            "I30",
+            "I30 Fastback",
+            "I40",
+            "Ioniq",
+            "Ioniq 5",
+            "Ix20",
+            "Ix35",
+            "Ix55",
+            "Kona",
+            "Matrix",
+            "Santa Fe",
+            "Sonata",
+            "Terracan",
+            "Trajet",
+            "Tucson"
+        ],
+        "Infiniti": [
+            "Q50",
+            "Qx70"
+        ],
+        "Jaguar": [
+            "E Pace",
+            "F Pace",
+            "Xe",
+            "Xf",
+            "Xj"
+        ],
+        "Jeep": [
+            "Cherokee",
+            "Commander",
+            "Compass",
+            "Gladiator",
+            "Grand Cherokee",
+            "Renegade",
+            "Wrangler"
+        ],
+        "Kia": [
+            "Carens",
+            "Carnival",
+            "Ceed",
+            "E Niro",
+            "E Soul",
+            "Ev6",
+            "Niro",
+            "Optima",
+            "Picanto",
+            "Proceed",
+            "Rio",
+            "Sorento",
+            "Soul",
+            "Sportage",
+            "Stonic",
+            "Venga",
+            "Xceed"
+        ],
+        "Lada": [
+            "Niva"
+        ],
+        "Lancia": [
+            "Delta",
+            "Fulvia",
+            "Thema"
+        ],
+        "Land Rover": [
+            "Defender",
+            "Discovery",
+            "Discovery Sport",
+            "Evoque",
+            "Freelander",
+            "Range Rover",
+            "Range Rover Evoque",
+            "Range Rover Sport",
+            "Range Rover Velar"
+        ],
+        "Lexus": [
+            "Es",
+            "Nx",
+            "Rx300"
+        ],
+        "MG": [
+            "3",
+            "5",
+            "Hs",
+            "Zs",
+            "Zs Suv"
+        ],
+        "MINI": [
+            "3 Door",
+            "5 Door",
+            "Clubman",
+            "Cooper",
+            "Countryman",
+            "One"
+        ],
+        "Man": [
+            "Tge"
+        ],
+        "Mazda": [
+            "2",
+            "3",
+            "323",
+            "5",
+            "6",
+            "Cx 3",
+            "Cx 30",
+            "Cx 5",
+            "Cx 60",
+            "Cx 7",
+            "Cx 9",
+            "Mx",
+            "Mx 30"
+        ],
+        "Mercedes Benz": [
+            "A",
+            "B",
+            "C",
+            "Citan",
+            "Cla",
+            "Clc",
+            "Clk",
+            "Cls",
+            "E",
+            "G",
+            "Gl",
+            "Gla",
+            "Glb",
+            "Glc",
+            "Glc Coupe",
+            "Gle",
+            "Gle Coupe",
+            "Glk",
+            "Gls",
+            "Ml",
+            "R",
+            "S",
+            "Sl",
+            "Slk",
+            "Sprinter",
+            "Trida A",
+            "Trida B",
+            "Trida C",
+            "Trida E",
+            "Trida M",
+            "V",
+            "Viano",
+            "Vito",
+            "X"
+        ],
+        "Mitsubishi": [
+            "Asx",
+            "Colt",
+            "Eclipse Cross",
+            "Grandis",
+            "L200",
+            "Lancer",
+            "Outlander",
+            "Pajero",
+            "Pajero Sport",
+            "Space Star"
+        ],
+        "Nissan": [
+            "Almera",
+            "Ariya",
+            "Juke",
+            "Leaf",
+            "Micra",
+            "Navara",
+            "Note",
+            "Pathfinder",
+            "Pixo",
+            "Primera",
+            "Pulsar",
+            "Qashqai",
+            "Qashqai+2",
+            "Tiida",
+            "Townstar",
+            "X Trail"
+        ],
+        "Opel": [
+            "Adam",
+            "Agila",
+            "Antara",
+            "Astra",
+            "Combo",
+            "Corsa",
+            "Corsa E",
+            "Crossland",
+            "Crossland X",
+            "Grandland",
+            "Grandland X",
+            "Insignia",
+            "Meriva",
+            "Mokka",
+            "Movano",
+            "Omega",
+            "Vectra",
+            "Vivaro",
+            "Zafira",
+            "Zafira Life",
+            "Zafira Tourer"
+        ],
+        "Peugeot": [
+            "107",
+            "108",
+            "2008",
+            "206",
+            "207",
+            "208",
+            "3008",
+            "301",
+            "307",
+            "308",
+            "4007",
+            "4008",
+            "407",
+            "5008",
+            "508",
+            "607",
+            "807",
+            "Boxer",
+            "E 208",
+            "E Rifter",
+            "Expert",
+            "Partner",
+            "Rifter",
+            "Traveller"
+        ],
+        "Porsche": [
+            "911",
+            "924",
+            "Cayenne",
+            "Panamera"
+        ],
+        "Renault": [
+            "Arkana",
+            "Austral",
+            "Captur",
+            "Clio",
+            "Espace",
+            "Fluence",
+            "Grand Scenic",
+            "Kadjar",
+            "Kangoo",
+            "Koleos",
+            "Laguna",
+            "Latitude",
+            "Master",
+            "Megane",
+            "Modus",
+            "Scenic",
+            "Symbioz",
+            "Talisman",
+            "Thalia",
+            "Trafic",
+            "Twingo",
+            "Zoe"
+        ],
+        "Rising": [
+            "R7"
+        ],
+        "Saab": [
+            "9 3",
+            "99"
+        ],
+        "Seat": [
+            "Alhambra",
+            "Altea",
+            "Altea Xl",
+            "Arona",
+            "Ateca",
+            "Cordoba",
+            "Exeo",
+            "Ibiza",
+            "Leon",
+            "Tarraco",
+            "Toledo"
+        ],
+        "Smart": [
+            "Forfour",
+            "Fortwo"
+        ],
+        "SsangYong": [
+            "Korando",
+            "Musso",
+            "Rexton",
+            "Tivoli",
+            "Torres"
+        ],
+        "Subaru": [
+            "Forester",
+            "Impreza",
+            "Legacy",
+            "Outback",
+            "Xv"
+        ],
+        "Suzuki": [
+            "Alto",
+            "Grand Vitara",
+            "Ignis",
+            "Jimny",
+            "S Cross",
+            "Swace",
+            "Swift",
+            "Sx4",
+            "Sx4 S Cross",
+            "Vitara"
+        ],
+        "Tesla": [
+            "Model 3",
+            "Model S",
+            "Model Y"
+        ],
+        "Toyota": [
+            "Auris",
+            "Avensis",
+            "Aygo",
+            "C Hr",
+            "Camry",
+            "Corolla",
+            "Corolla Cross",
+            "Corolla Verso",
+            "Hilux",
+            "Land Cruiser",
+            "Mirai",
+            "Prius",
+            "Proace",
+            "Proace City",
+            "Proace City Verso",
+            "Proace Verso",
+            "Rav4",
+            "Verso",
+            "Yaris",
+            "Yaris Cross"
+        ],
+        "Volkswagen": [
+            "Amarok",
+            "Arteon",
+            "Beetle",
+            "Bora",
+            "Caddy",
+            "Caravelle",
+            "Cc",
+            "Crafter",
+            "E Golf",
+            "E Up!",
+            "Eos",
+            "Fox",
+            "Golf",
+            "Golf Plus",
+            "Golf Sportsvan",
+            "Id.3",
+            "Id.4",
+            "Id.5",
+            "Jetta",
+            "Multivan",
+            "New Beetle",
+            "Passat",
+            "Passat Cc",
+            "Polo",
+            "Scirocco",
+            "Sharan",
+            "Sportsvan",
+            "T Cross",
+            "T Roc",
+            "Taigo",
+            "Tiguan",
+            "Tiguan Allspace",
+            "Touareg",
+            "Touran",
+            "Transporter",
+            "Up",
+            "Up!"
+        ],
+        "Volvo": [
+            "C30",
+            "C40",
+            "S60",
+            "S80",
+            "S90",
+            "V40",
+            "V50",
+            "V60",
+            "V60 Cross Country",
+            "V70",
+            "V90",
+            "V90 Cross Country",
+            "Xc40",
+            "Xc60",
+            "Xc70",
+            "Xc90"
+        ],
+        "Škoda": [
+            "105",
+            "120",
+            "Citigo",
+            "Citigo E",
+            "Enyaq",
+            "Fabia",
+            "Favorit",
+            "Felicia",
+            "Kamiq",
+            "Karoq",
+            "Kodiaq",
+            "Octavia",
+            "Octavia Scout",
+            "Praktik",
+            "Rapid",
+            "Rapid Spaceback",
+            "Roomster",
+            "Scala",
+            "Superb",
+            "Yeti"
+        ]
+    },
+    "model_fuel_types": {
+        "1": [
+            "Benzín",
+            "Diesel"
+        ],
+        "100": [
+            "Diesel"
+        ],
+        "105": [
+            "Benzín"
+        ],
+        "107": [
+            "Benzín"
+        ],
+        "108": [
+            "Benzín"
+        ],
+        "120": [
+            "Benzín"
+        ],
+        "156": [
+            "Benzín"
+        ],
+        "159": [
+            "Benzín"
+        ],
+        "2": [
+            "Benzín",
+            "Diesel"
+        ],
+        "2 Active Tourer": [
+            "Benzín",
+            "Diesel",
+            "Plug-in Hybrid (PHEV)"
+        ],
+        "2 Gran Coupe": [
+            "Benzín",
+            "Diesel"
+        ],
+        "2 Gran Tourer": [
+            "Benzín",
+            "Diesel"
+        ],
+        "2008": [
+            "Benzín",
+            "Diesel"
+        ],
+        "206": [
+            "Benzín",
+            "Diesel"
+        ],
+        "207": [
+            "Benzín",
+            "Diesel",
+            "LPG"
+        ],
+        "208": [
+            "Benzín",
+            "Diesel",
+            "Mild-Hybrid (MHEV)"
+        ],
+        "3": [
+            "Benzín",
+            "Diesel",
+            "Full-Hybrid (FHEV)",
+            "Mild-Hybrid (MHEV)",
+            "Plug-in Hybrid (PHEV)"
+        ],
+        "3 Crossback": [
+            "Battery EV (BEV)",
+            "Benzín"
+        ],
+        "3 Door": [
+            "Battery EV (BEV)",
+            "Benzín"
+        ],
+        "3008": [
+            "Benzín",
+            "Diesel",
+            "Plug-in Hybrid (PHEV)"
+        ],
+        "301": [
+            "Benzín",
+            "Diesel"
+        ],
+        "307": [
+            "Benzín",
+            "Diesel"
+        ],
+        "308": [
+            "Benzín",
+            "Diesel"
+        ],
+        "323": [
+            "Benzín"
+        ],
+        "3gt": [
+            "Diesel"
+        ],
+        "4": [
+            "Benzín",
+            "Diesel"
+        ],
+        "4 Crossback": [
+            "Diesel"
+        ],
+        "4 Gran Coupe": [
+            "Benzín",
+            "Diesel"
+        ],
+        "4007": [
+            "Diesel"
+        ],
+        "4008": [
+            "Diesel"
+        ],
+        "407": [
+            "Benzín",
+            "Diesel",
+            "LPG"
+        ],
+        "5": [
+            "Battery EV (BEV)",
+            "Benzín",
+            "Diesel",
+            "Mild-Hybrid (MHEV)",
+            "Plug-in Hybrid (PHEV)"
+        ],
+        "5 Door": [
+            "Benzín"
+        ],
+        "500": [
+            "Benzín",
+            "Diesel",
+            "Mild-Hybrid (MHEV)"
+        ],
+        "500 L": [
+            "Benzín"
+        ],
+        "5008": [
+            "Benzín",
+            "Diesel"
+        ],
+        "500e": [
+            "Battery EV (BEV)"
+        ],
+        "500l": [
+            "Benzín"
+        ],
+        "500x": [
+            "Benzín",
+            "Diesel"
+        ],
+        "508": [
+            "Benzín",
+            "Diesel",
+            "Plug-in Hybrid (PHEV)"
+        ],
+        "5gt": [
+            "Diesel"
+        ],
+        "6": [
+            "Benzín",
+            "Diesel",
+            "LPG"
+        ],
+        "6 Gran Coupe": [
+            "Diesel"
+        ],
+        "607": [
+            "Diesel"
+        ],
+        "6gt": [
+            "Diesel"
+        ],
+        "7": [
+            "Benzín",
+            "Diesel"
+        ],
+        "7 Crossback": [
+            "Benzín"
+        ],
+        "807": [
+            "Diesel"
+        ],
+        "9 3": [
+            "Diesel"
+        ],
+        "911": [
+            "Benzín"
+        ],
+        "924": [
+            "Benzín"
+        ],
+        "99": [
+            "Benzín"
+        ],
+        "A": [
+            "Benzín",
+            "Diesel",
+            "Mild-Hybrid (MHEV)",
+            "Plug-in Hybrid (PHEV)"
+        ],
+        "A1": [
+            "Benzín"
+        ],
+        "A2": [
+            "Benzín"
+        ],
+        "A3": [
+            "Benzín",
+            "Diesel",
+            "Mild-Hybrid (MHEV)",
+            "Plug-in Hybrid (PHEV)"
+        ],
+        "A4": [
+            "Benzín",
+            "Diesel",
+            "Mild-Hybrid (MHEV)"
+        ],
+        "A4 Allroad": [
+            "Diesel",
+            "Mild-Hybrid (MHEV)"
+        ],
+        "A5": [
+            "Benzín",
+            "Diesel",
+            "Mild-Hybrid (MHEV)"
+        ],
+        "A6": [
+            "Benzín",
+            "Diesel",
+            "Mild-Hybrid (MHEV)"
+        ],
+        "A6 Allroad": [
+            "Diesel",
+            "Mild-Hybrid (MHEV)"
+        ],
+        "A7": [
+            "Benzín",
+            "Diesel"
+        ],
+        "A8": [
+            "Diesel"
+        ],
+        "Accent": [
+            "Benzín"
+        ],
+        "Accord": [
+            "Benzín",
+            "Diesel"
+        ],
+        "Adam": [
+            "Benzín"
+        ],
+        "Agila": [
+            "Benzín"
+        ],
+        "Alhambra": [
+            "Benzín",
+            "Diesel"
+        ],
+        "Almera": [
+            "Benzín"
+        ],
+        "Altea": [
+            "Benzín",
+            "Diesel"
+        ],
+        "Altea Xl": [
+            "Benzín",
+            "Diesel"
+        ],
+        "Alto": [
+            "Benzín"
+        ],
+        "Amarok": [
+            "Diesel"
+        ],
+        "Antara": [
+            "Diesel"
+        ],
+        "Ariya": [
+            "Battery EV (BEV)"
+        ],
+        "Arkana": [
+            "Benzín",
+            "Full-Hybrid (FHEV)",
+            "Mild-Hybrid (MHEV)"
+        ],
+        "Arona": [
+            "Benzín"
+        ],
+        "Arteon": [
+            "Benzín",
+            "Diesel"
+        ],
+        "Astra": [
+            "Benzín",
+            "Diesel",
+            "LPG"
+        ],
+        "Asx": [
+            "Benzín",
+            "Diesel",
+            "LPG"
+        ],
+        "Ateca": [
+            "Benzín",
+            "Diesel"
+        ],
+        "Atos": [
+            "Benzín"
+        ],
+        "Auris": [
+            "Benzín",
+            "Diesel",
+            "Full-Hybrid (FHEV)"
+        ],
+        "Austral": [
+            "Benzín",
+            "Full-Hybrid (FHEV)"
+        ],
+        "Avensis": [
+            "Benzín",
+            "Diesel"
+        ],
+        "Aveo": [
+            "Benzín"
+        ],
+        "Aygo": [
+            "Benzín"
+        ],
+        "B": [
+            "Benzín",
+            "Diesel",
+            "LPG",
+            "Plug-in Hybrid (PHEV)"
+        ],
+        "B Max": [
+            "Benzín",
+            "Diesel"
+        ],
+        "Bayon": [
+            "Benzín"
+        ],
+        "Beetle": [
+            "Benzín",
+            "Diesel"
+        ],
+        "Berlingo": [
+            "Benzín",
+            "Diesel",
+            "LPG"
+        ],
+        "Bora": [
+            "Benzín"
+        ],
+        "Born": [
+            "Battery EV (BEV)"
+        ],
+        "Boxer": [
+            "Diesel"
+        ],
+        "Bravo": [
+            "Benzín",
+            "Diesel"
+        ],
+        "C": [
+            "Benzín",
+            "Diesel",
+            "Plug-in Hybrid (PHEV)"
+        ],
+        "C Crosser": [
+            "Diesel"
+        ],
+        "C Elysee": [
+            "Benzín",
+            "Diesel"
+        ],
+        "C Hr": [
+            "Benzín",
+            "Full-Hybrid (FHEV)"
+        ],
+        "C Max": [
+            "Benzín",
+            "Diesel"
+        ],
+        "C1": [
+            "Benzín"
+        ],
+        "C2": [
+            "Benzín"
+        ],
+        "C3": [
+            "Benzín",
+            "Diesel"
+        ],
+        "C3 Aircross": [
+            "Benzín"
+        ],
+        "C3 Picasso": [
+            "Benzín",
+            "Diesel"
+        ],
+        "C30": [
+            "Benzín",
+            "Diesel"
+        ],
+        "C4": [
+            "Benzín",
+            "Diesel"
+        ],
+        "C4 Aircross": [
+            "Diesel"
+        ],
+        "C4 Cactus": [
+            "Benzín",
+            "Diesel"
+        ],
+        "C4 Grand Picasso": [
+            "Benzín",
+            "Diesel"
+        ],
+        "C4 Grand Spacetourer": [
+            "Benzín",
+            "Diesel"
+        ],
+        "C4 Picasso": [
+            "Benzín",
+            "Diesel"
+        ],
+        "C4 Spacetourer": [
+            "Benzín",
+            "Diesel"
+        ],
+        "C4 X": [
+            "Benzín"
+        ],
+        "C40": [
+            "Battery EV (BEV)"
+        ],
+        "C5": [
+            "Benzín",
+            "Diesel"
+        ],
+        "C5 Aircross": [
+            "Benzín",
+            "Diesel"
+        ],
+        "C8": [
+            "Benzín",
+            "Diesel"
+        ],
+        "Caddy": [
+            "Benzín",
+            "CNG",
+            "Diesel",
+            "LPG"
+        ],
+        "Camaro": [
+            "Benzín"
+        ],
+        "Camry": [
+            "Full-Hybrid (FHEV)"
+        ],
+        "Capri": [
+            "Benzín"
+        ],
+        "Captiva": [
+            "Benzín",
+            "Diesel",
+            "LPG"
+        ],
+        "Captur": [
+            "Benzín",
+            "LPG"
+        ],
+        "Caravelle": [
+            "Diesel"
+        ],
+        "Carens": [
+            "Benzín",
+            "Diesel"
+        ],
+        "Carnival": [
+            "Benzín",
+            "Diesel"
+        ],
+        "Cayenne": [
+            "Diesel"
+        ],
+        "Cc": [
+            "Benzín",
+            "Diesel"
+        ],
+        "Ceed": [
+            "Benzín",
+            "Diesel",
+            "LPG",
+            "Mild-Hybrid (MHEV)"
+        ],
+        "Cherokee": [
+            "Diesel"
+        ],
+        "Chevy Van G20": [
+            "Benzín"
+        ],
+        "Citan": [
+            "Diesel"
+        ],
+        "Citigo": [
+            "Benzín"
+        ],
+        "Citigo E": [
+            "Battery EV (BEV)"
+        ],
+        "Civic": [
+            "Benzín",
+            "Diesel"
+        ],
+        "Cla": [
+            "Benzín",
+            "Diesel",
+            "Mild-Hybrid (MHEV)"
+        ],
+        "Clc": [
+            "Benzín",
+            "Diesel"
+        ],
+        "Clio": [
+            "Benzín",
+            "LPG"
+        ],
+        "Clk": [
+            "Benzín",
+            "Diesel"
+        ],
+        "Cls": [
+            "Diesel",
+            "Mild-Hybrid (MHEV)"
+        ],
+        "Clubman": [
+            "Benzín",
+            "Diesel"
+        ],
+        "Colt": [
+            "Benzín"
+        ],
+        "Combo": [
+            "Benzín",
+            "Diesel"
+        ],
+        "Commander": [
+            "Diesel"
+        ],
+        "Compass": [
+            "Benzín",
+            "Diesel",
+            "Plug-in Hybrid (PHEV)"
+        ],
+        "Continental": [
+            "Benzín"
+        ],
+        "Cooper": [
+            "Benzín",
+            "Diesel"
+        ],
+        "Cordoba": [
+            "Benzín"
+        ],
+        "Corolla": [
+            "Benzín",
+            "Diesel",
+            "Full-Hybrid (FHEV)"
+        ],
+        "Corolla Cross": [
+            "Full-Hybrid (FHEV)"
+        ],
+        "Corolla Verso": [
+            "Benzín",
+            "Diesel"
+        ],
+        "Corsa": [
+            "Benzín",
+            "LPG"
+        ],
+        "Corsa E": [
+            "Battery EV (BEV)"
+        ],
+        "Countryman": [
+            "Benzín",
+            "Diesel",
+            "Mild-Hybrid (MHEV)",
+            "Plug-in Hybrid (PHEV)"
+        ],
+        "Cr V": [
+            "Benzín",
+            "Diesel",
+            "Full-Hybrid (FHEV)",
+            "LPG"
+        ],
+        "Crafter": [
+            "Diesel"
+        ],
+        "Croma": [
+            "Benzín",
+            "Diesel"
+        ],
+        "Crossland": [
+            "Benzín",
+            "Diesel"
+        ],
+        "Crossland X": [
+            "Benzín",
+            "Diesel"
+        ],
+        "Cruze": [
+            "Benzín",
+            "Diesel"
+        ],
+        "Cx 3": [
+            "Benzín",
+            "Diesel"
+        ],
+        "Cx 30": [
+            "Benzín",
+            "Mild-Hybrid (MHEV)"
+        ],
+        "Cx 5": [
+            "Benzín",
+            "Diesel"
+        ],
+        "Cx 60": [
+            "Plug-in Hybrid (PHEV)"
+        ],
+        "Cx 7": [
+            "Diesel"
+        ],
+        "Cx 9": [
+            "Benzín"
+        ],
+        "Defender": [
+            "Diesel"
+        ],
+        "Delta": [
+            "Benzín"
+        ],
+        "Discovery": [
+            "Diesel"
+        ],
+        "Discovery Sport": [
+            "Diesel"
+        ],
+        "Doblo": [
+            "Benzín",
+            "CNG",
+            "Diesel"
+        ],
+        "Dokker": [
+            "Benzín",
+            "Diesel",
+            "LPG"
+        ],
+        "Ds3": [
+            "Benzín"
+        ],
+        "Ds3 Crossback": [
+            "Benzín"
+        ],
+        "Ds4": [
+            "Benzín",
+            "Diesel"
+        ],
+        "Ds5": [
+            "Diesel"
+        ],
+        "Ducato": [
+            "Diesel"
+        ],
+        "Durango": [
+            "Benzín"
+        ],
+        "Duster": [
+            "Benzín",
+            "Diesel",
+            "Ethanol",
+            "LPG"
+        ],
+        "E": [
+            "Benzín",
+            "Diesel",
+            "Plug-in Hybrid (PHEV)"
+        ],
+        "E 208": [
+            "Battery EV (BEV)"
+        ],
+        "E C4": [
+            "Battery EV (BEV)"
+        ],
+        "E Golf": [
+            "Battery EV (BEV)"
+        ],
+        "E Niro": [
+            "Battery EV (BEV)"
+        ],
+        "E Pace": [
+            "Diesel"
+        ],
+        "E Rifter": [
+            "Battery EV (BEV)"
+        ],
+        "E Soul": [
+            "Battery EV (BEV)"
+        ],
+        "E Tron": [
+            "Battery EV (BEV)"
+        ],
+        "E Tron Sportback": [
+            "Battery EV (BEV)"
+        ],
+        "E Up!": [
+            "Battery EV (BEV)"
+        ],
+        "E:Ny1": [
+            "Battery EV (BEV)"
+        ],
+        "Eclipse Cross": [
+            "Benzín",
+            "Plug-in Hybrid (PHEV)"
+        ],
+        "Ecosport": [
+            "Benzín",
+            "Diesel"
+        ],
+        "Edge": [
+            "Diesel"
+        ],
+        "Elantra": [
+            "Benzín"
+        ],
+        "Enyaq": [
+            "Battery EV (BEV)"
+        ],
+        "Eos": [
+            "Benzín",
+            "Diesel"
+        ],
+        "Epica": [
+            "Benzín"
+        ],
+        "Es": [
+            "Full-Hybrid (FHEV)"
+        ],
+        "Espace": [
+            "Benzín",
+            "Diesel"
+        ],
+        "Ev6": [
+            "Battery EV (BEV)"
+        ],
+        "Evoque": [
+            "Benzín",
+            "Diesel"
+        ],
+        "Exeo": [
+            "Diesel"
+        ],
+        "Expert": [
+            "Diesel"
+        ],
+        "F Pace": [
+            "Diesel"
+        ],
+        "Fabia": [
+            "Benzín",
+            "Diesel",
+            "LPG"
+        ],
+        "Favorit": [
+            "Benzín"
+        ],
+        "Felicia": [
+            "Benzín"
+        ],
+        "Fiesta": [
+            "Benzín",
+            "Diesel"
+        ],
+        "Fluence": [
+            "Benzín",
+            "Diesel",
+            "LPG"
+        ],
+        "Focus": [
+            "Benzín",
+            "Diesel",
+            "Mild-Hybrid (MHEV)"
+        ],
+        "Forester": [
+            "Benzín",
+            "Diesel",
+            "Mild-Hybrid (MHEV)"
+        ],
+        "Forfour": [
+            "Battery EV (BEV)"
+        ],
+        "Formentor": [
+            "Benzín",
+            "Plug-in Hybrid (PHEV)"
+        ],
+        "Forthing T5 Evo": [
+            "Benzín"
+        ],
+        "Fortwo": [
+            "Benzín"
+        ],
+        "Fox": [
+            "Benzín"
+        ],
+        "Freelander": [
+            "Diesel"
+        ],
+        "Freemont": [
+            "Benzín",
+            "Diesel"
+        ],
+        "Fullback": [
+            "Diesel"
+        ],
+        "Fulvia": [
+            "Benzín"
+        ],
+        "Fusion": [
+            "Benzín"
+        ],
+        "G": [
+            "Benzín"
+        ],
+        "G70": [
+            "Diesel"
+        ],
+        "Galaxy": [
+            "Benzín",
+            "Diesel"
+        ],
+        "Getz": [
+            "Benzín"
+        ],
+        "Giulia": [
+            "Diesel"
+        ],
+        "Giulietta": [
+            "Benzín"
+        ],
+        "Gl": [
+            "Benzín",
+            "Diesel"
+        ],
+        "Gla": [
+            "Benzín",
+            "Diesel",
+            "Mild-Hybrid (MHEV)"
+        ],
+        "Gladiator": [
+            "Diesel"
+        ],
+        "Glb": [
+            "Benzín",
+            "Diesel",
+            "Mild-Hybrid (MHEV)"
+        ],
+        "Glc": [
+            "Diesel",
+            "Plug-in Hybrid (PHEV)"
+        ],
+        "Glc Coupe": [
+            "Benzín",
+            "Diesel",
+            "Mild-Hybrid (MHEV)"
+        ],
+        "Gle": [
+            "Benzín",
+            "Diesel",
+            "Mild-Hybrid (MHEV)"
+        ],
+        "Gle Coupe": [
+            "Diesel"
+        ],
+        "Glk": [
+            "Benzín",
+            "Diesel"
+        ],
+        "Gls": [
+            "Benzín"
+        ],
+        "Golf": [
+            "Benzín",
+            "CNG",
+            "Diesel",
+            "Mild-Hybrid (MHEV)",
+            "Plug-in Hybrid (PHEV)"
+        ],
+        "Golf Plus": [
+            "Benzín",
+            "Diesel"
+        ],
+        "Golf Sportsvan": [
+            "Benzín",
+            "Diesel"
+        ],
+        "Grand C Max": [
+            "Benzín",
+            "Diesel"
+        ],
+        "Grand C4 Spacetourer": [
+            "Benzín",
+            "Diesel"
+        ],
+        "Grand Cherokee": [
+            "Diesel"
+        ],
+        "Grand Santa Fe": [
+            "Diesel"
+        ],
+        "Grand Scenic": [
+            "Benzín",
+            "Diesel"
+        ],
+        "Grand Vitara": [
+            "Diesel"
+        ],
+        "Grandis": [
+            "Diesel"
+        ],
+        "Grandland": [
+            "Benzín",
+            "Diesel",
+            "Plug-in Hybrid (PHEV)"
+        ],
+        "Grandland X": [
+            "Benzín",
+            "Diesel"
+        ],
+        "H 1": [
+            "Diesel"
+        ],
+        "H 1 Tour": [
+            "Diesel"
+        ],
+        "H350": [
+            "Diesel"
+        ],
+        "Hilux": [
+            "Diesel"
+        ],
+        "Hr V": [
+            "Benzín",
+            "Diesel"
+        ],
+        "Hs": [
+            "Benzín"
+        ],
+        "I10": [
+            "Benzín",
+            "LPG"
+        ],
+        "I20": [
+            "Benzín",
+            "Diesel"
+        ],
+        "I3": [
+            "Battery EV (BEV)"
+        ],
+        "I30": [
+            "Benzín",
+            "Diesel",
+            "LPG",
+            "Mild-Hybrid (MHEV)"
+        ],
+        "I30 Fastback": [
+            "Benzín",
+            "Diesel",
+            "Mild-Hybrid (MHEV)"
+        ],
+        "I40": [
+            "Diesel"
+        ],
+        "Ibiza": [
+            "Benzín",
+            "Diesel"
+        ],
+        "Id.3": [
+            "Battery EV (BEV)"
+        ],
+        "Id.4": [
+            "Battery EV (BEV)"
+        ],
+        "Id.5": [
+            "Battery EV (BEV)"
+        ],
+        "Ignis": [
+            "Benzín",
+            "LPG",
+            "Mild-Hybrid (MHEV)"
+        ],
+        "Impreza": [
+            "Benzín"
+        ],
+        "Insignia": [
+            "Benzín",
+            "Diesel"
+        ],
+        "Ioniq": [
+            "Battery EV (BEV)",
+            "Full-Hybrid (FHEV)",
+            "Plug-in Hybrid (PHEV)"
+        ],
+        "Ioniq 5": [
+            "Battery EV (BEV)"
+        ],
+        "Ix": [
+            "Battery EV (BEV)"
+        ],
+        "Ix1": [
+            "Battery EV (BEV)"
+        ],
+        "Ix20": [
+            "Benzín",
+            "Diesel",
+            "LPG"
+        ],
+        "Ix35": [
+            "Benzín",
+            "Diesel"
+        ],
+        "Ix55": [
+            "Diesel"
+        ],
+        "Jazz": [
+            "Benzín"
+        ],
+        "Jetta": [
+            "Benzín",
+            "Diesel"
+        ],
+        "Jimny": [
+            "Benzín",
+            "LPG"
+        ],
+        "Jogger": [
+            "Benzín",
+            "LPG"
+        ],
+        "Juke": [
+            "Benzín",
+            "Diesel",
+            "LPG"
+        ],
+        "Jumper": [
+            "Diesel"
+        ],
+        "Jumpy": [
+            "Diesel"
+        ],
+        "Ka": [
+            "Benzín"
+        ],
+        "Kadjar": [
+            "Benzín",
+            "Diesel"
+        ],
+        "Kalos": [
+            "Benzín"
+        ],
+        "Kamiq": [
+            "Benzín",
+            "Diesel"
+        ],
+        "Kangoo": [
+            "Benzín",
+            "Diesel"
+        ],
+        "Karoq": [
+            "Benzín",
+            "Diesel"
+        ],
+        "Kodiaq": [
+            "Benzín",
+            "Diesel",
+            "Plug-in Hybrid (PHEV)"
+        ],
+        "Koleos": [
+            "Diesel"
+        ],
+        "Kona": [
+            "Battery EV (BEV)",
+            "Benzín",
+            "Diesel",
+            "Full-Hybrid (FHEV)"
+        ],
+        "Korando": [
+            "Benzín",
+            "Diesel"
+        ],
+        "Kuga": [
+            "Benzín",
+            "Diesel",
+            "Full-Hybrid (FHEV)",
+            "Mild-Hybrid (MHEV)"
+        ],
+        "L200": [
+            "Diesel"
+        ],
+        "Lacetti": [
+            "Diesel"
+        ],
+        "Laguna": [
+            "Benzín",
+            "Diesel"
+        ],
+        "Lancer": [
+            "Benzín"
+        ],
+        "Land Cruiser": [
+            "Diesel"
+        ],
+        "Latitude": [
+            "Diesel"
+        ],
+        "Leaf": [
+            "Battery EV (BEV)"
+        ],
+        "Legacy": [
+            "Benzín"
+        ],
+        "Leon": [
+            "Benzín",
+            "Diesel"
+        ],
+        "Linea": [
+            "Benzín"
+        ],
+        "Lodgy": [
+            "Benzín",
+            "Diesel",
+            "LPG"
+        ],
+        "Logan": [
+            "Benzín",
+            "Diesel",
+            "LPG"
+        ],
+        "M3": [
+            "Benzín"
+        ],
+        "Malibu": [
+            "Diesel"
+        ],
+        "Master": [
+            "Diesel"
+        ],
+        "Matrix": [
+            "Benzín",
+            "Diesel"
+        ],
+        "Megane": [
+            "Benzín",
+            "Diesel",
+            "Plug-in Hybrid (PHEV)"
+        ],
+        "Meriva": [
+            "Benzín",
+            "Diesel",
+            "LPG"
+        ],
+        "Micra": [
+            "Benzín",
+            "Diesel"
+        ],
+        "Mirai": [
+            "Fuel Cell EV (FCEV)Elektromobil poháněný vodíkovým palivovým článkem. Má tichý provoz s nulovými lokálními emisemi stejně jako bateriový elektromobil, místo dobíjení baterie ale doplňuje vodík u speciální čerpací stanice.Elektro (FCEV)"
+        ],
+        "Ml": [
+            "Diesel"
+        ],
+        "Model 3": [
+            "Battery EV (BEV)"
+        ],
+        "Model S": [
+            "Battery EV (BEV)"
+        ],
+        "Model Y": [
+            "Battery EV (BEV)"
+        ],
+        "Modus": [
+            "Benzín"
+        ],
+        "Mokka": [
+            "Benzín",
+            "Diesel",
+            "LPG"
+        ],
+        "Mondeo": [
+            "Benzín",
+            "Diesel",
+            "LPG"
+        ],
+        "Movano": [
+            "Diesel"
+        ],
+        "Multivan": [
+            "Benzín",
+            "Diesel"
+        ],
+        "Musso": [
+            "Diesel"
+        ],
+        "Mustang": [
+            "Benzín"
+        ],
+        "Mx": [
+            "Benzín"
+        ],
+        "Mx 30": [
+            "Battery EV (BEV)"
+        ],
+        "Navara": [
+            "Diesel"
+        ],
+        "Nemo": [
+            "Benzín"
+        ],
+        "New Beetle": [
+            "Benzín",
+            "Diesel"
+        ],
+        "Niro": [
+            "Benzín",
+            "Full-Hybrid (FHEV)",
+            "Plug-in Hybrid (PHEV)"
+        ],
+        "Niva": [
+            "Benzín"
+        ],
+        "Note": [
+            "Benzín",
+            "Diesel"
+        ],
+        "Nubira": [
+            "Benzín"
+        ],
+        "Nx": [
+            "Full-Hybrid (FHEV)"
+        ],
+        "Octavia": [
+            "Benzín",
+            "CNG",
+            "Diesel",
+            "Mild-Hybrid (MHEV)",
+            "Plug-in Hybrid (PHEV)"
+        ],
+        "Octavia Scout": [
+            "Benzín",
+            "Diesel"
+        ],
+        "Omega": [
+            "Diesel"
+        ],
+        "One": [
+            "Benzín"
+        ],
+        "Optima": [
+            "Benzín",
+            "Diesel"
+        ],
+        "Orlando": [
+            "Benzín",
+            "Diesel"
+        ],
+        "Outback": [
+            "Benzín",
+            "Diesel"
+        ],
+        "Outlander": [
+            "Benzín",
+            "Diesel",
+            "Plug-in Hybrid (PHEV)"
+        ],
+        "Pajero": [
+            "Diesel"
+        ],
+        "Pajero Sport": [
+            "Diesel"
+        ],
+        "Panamera": [
+            "Benzín"
+        ],
+        "Panda": [
+            "Benzín",
+            "Mild-Hybrid (MHEV)"
+        ],
+        "Partner": [
+            "Benzín",
+            "Diesel"
+        ],
+        "Passat": [
+            "Benzín",
+            "CNG",
+            "Diesel",
+            "Plug-in Hybrid (PHEV)"
+        ],
+        "Passat Cc": [
+            "Benzín",
+            "Diesel"
+        ],
+        "Pathfinder": [
+            "Diesel"
+        ],
+        "Picanto": [
+            "Benzín",
+            "LPG"
+        ],
+        "Pixo": [
+            "Benzín"
+        ],
+        "Polo": [
+            "Benzín",
+            "Diesel"
+        ],
+        "Praktik": [
+            "Diesel"
+        ],
+        "Primera": [
+            "Benzín"
+        ],
+        "Prius": [
+            "Full-Hybrid (FHEV)",
+            "Plug-in Hybrid (PHEV)"
+        ],
+        "Proace": [
+            "Diesel"
+        ],
+        "Proace City": [
+            "Benzín",
+            "Diesel"
+        ],
+        "Proace City Verso": [
+            "Benzín",
+            "Diesel"
+        ],
+        "Proace Verso": [
+            "Diesel"
+        ],
+        "Proceed": [
+            "Benzín"
+        ],
+        "Pt Cruiser": [
+            "Benzín"
+        ],
+        "Pulsar": [
+            "Benzín"
+        ],
+        "Puma": [
+            "Benzín",
+            "Mild-Hybrid (MHEV)"
+        ],
+        "Punto": [
+            "Benzín",
+            "Diesel"
+        ],
+        "Punto Evo": [
+            "Benzín"
+        ],
+        "Q2": [
+            "Benzín",
+            "Diesel"
+        ],
+        "Q3": [
+            "Benzín",
+            "Diesel"
+        ],
+        "Q3 Sportback": [
+            "Diesel"
+        ],
+        "Q5": [
+            "Benzín",
+            "Diesel"
+        ],
+        "Q5 Sportback": [
+            "Diesel"
+        ],
+        "Q50": [
+            "Diesel",
+            "Full-Hybrid (FHEV)"
+        ],
+        "Q7": [
+            "Benzín",
+            "Diesel",
+            "Mild-Hybrid (MHEV)"
+        ],
+        "Q8": [
+            "Benzín",
+            "Diesel",
+            "Mild-Hybrid (MHEV)"
+        ],
+        "Qashqai": [
+            "Benzín",
+            "Diesel",
+            "Mild-Hybrid (MHEV)"
+        ],
+        "Qashqai+2": [
+            "Benzín"
+        ],
+        "Qubo": [
+            "Benzín"
+        ],
+        "Qx70": [
+            "Benzín"
+        ],
+        "R": [
+            "Benzín",
+            "Diesel"
+        ],
+        "R7": [
+            "Battery EV (BEV)"
+        ],
+        "Rada 1": [
+            "Benzín",
+            "Diesel"
+        ],
+        "Rada 3": [
+            "Benzín",
+            "Diesel"
+        ],
+        "Rada 4": [
+            "Benzín",
+            "Diesel"
+        ],
+        "Rada 5": [
+            "Benzín",
+            "Diesel"
+        ],
+        "Range Rover": [
+            "Diesel"
+        ],
+        "Range Rover Evoque": [
+            "Diesel"
+        ],
+        "Range Rover Sport": [
+            "Diesel"
+        ],
+        "Range Rover Velar": [
+            "Diesel"
+        ],
+        "Ranger": [
+            "Diesel"
+        ],
+        "Ranger Raptor": [
+            "Benzín",
+            "Diesel"
+        ],
+        "Rapid": [
+            "Benzín",
+            "Diesel"
+        ],
+        "Rapid Spaceback": [
+            "Benzín",
+            "Diesel"
+        ],
+        "Rav4": [
+            "Benzín",
+            "Diesel",
+            "Full-Hybrid (FHEV)",
+            "Plug-in Hybrid (PHEV)"
+        ],
+        "Renegade": [
+            "Benzín",
+            "Diesel",
+            "Plug-in Hybrid (PHEV)"
+        ],
+        "Rexton": [
+            "Diesel"
+        ],
+        "Rifter": [
+            "Benzín",
+            "Diesel"
+        ],
+        "Rio": [
+            "Benzín"
+        ],
+        "Roomster": [
+            "Benzín",
+            "Diesel"
+        ],
+        "Rs Q8": [
+            "Benzín",
+            "Mild-Hybrid (MHEV)"
+        ],
+        "Rx300": [
+            "Benzín"
+        ],
+        "S": [
+            "Benzín",
+            "Diesel",
+            "LPG",
+            "Mild-Hybrid (MHEV)"
+        ],
+        "S Cross": [
+            "Benzín"
+        ],
+        "S Max": [
+            "Benzín",
+            "Diesel",
+            "Full-Hybrid (FHEV)"
+        ],
+        "S3": [
+            "Benzín"
+        ],
+        "S6": [
+            "Benzín",
+            "Diesel"
+        ],
+        "S60": [
+            "Benzín",
+            "Diesel",
+            "Plug-in Hybrid (PHEV)"
+        ],
+        "S80": [
+            "Benzín",
+            "Diesel"
+        ],
+        "S90": [
+            "Benzín",
+            "Diesel"
+        ],
+        "Sandero": [
+            "Benzín",
+            "Diesel",
+            "LPG"
+        ],
+        "Santa Fe": [
+            "Benzín",
+            "Diesel",
+            "LPG"
+        ],
+        "Scala": [
+            "Benzín",
+            "Diesel",
+            "LPG"
+        ],
+        "Scenic": [
+            "Benzín",
+            "Diesel"
+        ],
+        "Scirocco": [
+            "Benzín"
+        ],
+        "Scudo": [
+            "Diesel"
+        ],
+        "Seagull": [
+            "Battery EV (BEV)"
+        ],
+        "Sedici": [
+            "Benzín",
+            "Diesel"
+        ],
+        "Sharan": [
+            "Benzín",
+            "Diesel",
+            "LPG"
+        ],
+        "Sl": [
+            "Benzín"
+        ],
+        "Slk": [
+            "Benzín"
+        ],
+        "Sonata": [
+            "LPG"
+        ],
+        "Sorento": [
+            "Diesel"
+        ],
+        "Soul": [
+            "Benzín",
+            "Diesel"
+        ],
+        "Space Star": [
+            "Benzín"
+        ],
+        "Spacetourer": [
+            "Diesel"
+        ],
+        "Spark": [
+            "Benzín"
+        ],
+        "Sportage": [
+            "Benzín",
+            "Diesel",
+            "LPG",
+            "Mild-Hybrid (MHEV)"
+        ],
+        "Sportsvan": [
+            "Benzín",
+            "Diesel"
+        ],
+        "Spring": [
+            "Battery EV (BEV)"
+        ],
+        "Sprinter": [
+            "Diesel"
+        ],
+        "Sq7": [
+            "Diesel"
+        ],
+        "Stelvio": [
+            "Benzín"
+        ],
+        "Stilo": [
+            "Benzín"
+        ],
+        "Stonic": [
+            "Benzín"
+        ],
+        "Superb": [
+            "Benzín",
+            "Diesel",
+            "Plug-in Hybrid (PHEV)"
+        ],
+        "Swace": [
+            "Full-Hybrid (FHEV)"
+        ],
+        "Swift": [
+            "Benzín",
+            "LPG"
+        ],
+        "Sx4": [
+            "Benzín",
+            "Diesel",
+            "LPG"
+        ],
+        "Sx4 S Cross": [
+            "Benzín",
+            "Diesel",
+            "Mild-Hybrid (MHEV)"
+        ],
+        "Symbioz": [
+            "Full-Hybrid (FHEV)"
+        ],
+        "T Cross": [
+            "Benzín"
+        ],
+        "T Roc": [
+            "Benzín",
+            "Diesel"
+        ],
+        "Taigo": [
+            "Benzín"
+        ],
+        "Talento": [
+            "Diesel"
+        ],
+        "Talisman": [
+            "Benzín",
+            "Diesel"
+        ],
+        "Tarraco": [
+            "Benzín",
+            "Diesel",
+            "Plug-in Hybrid (PHEV)"
+        ],
+        "Terracan": [
+            "Diesel"
+        ],
+        "Tge": [
+            "Diesel"
+        ],
+        "Thalia": [
+            "Benzín"
+        ],
+        "Thema": [
+            "Diesel"
+        ],
+        "Tiguan": [
+            "Benzín",
+            "Diesel",
+            "LPG"
+        ],
+        "Tiguan Allspace": [
+            "Benzín",
+            "Diesel"
+        ],
+        "Tiida": [
+            "Benzín"
+        ],
+        "Tipo": [
+            "Benzín",
+            "Diesel"
+        ],
+        "Tivoli": [
+            "Benzín",
+            "Diesel"
+        ],
+        "Toledo": [
+            "Benzín",
+            "Diesel"
+        ],
+        "Tonale": [
+            "Benzín",
+            "Mild-Hybrid (MHEV)"
+        ],
+        "Torres": [
+            "Benzín"
+        ],
+        "Touareg": [
+            "Benzín",
+            "Diesel"
+        ],
+        "Touran": [
+            "Benzín",
+            "Diesel"
+        ],
+        "Tourneo Connect": [
+            "Benzín",
+            "Diesel"
+        ],
+        "Tourneo Courier": [
+            "Benzín",
+            "Diesel"
+        ],
+        "Tourneo Custom": [
+            "Diesel",
+            "Mild-Hybrid (MHEV)"
+        ],
+        "Townstar": [
+            "Benzín"
+        ],
+        "Trafic": [
+            "Diesel"
+        ],
+        "Trajet": [
+            "Diesel"
+        ],
+        "Transit": [
+            "Diesel"
+        ],
+        "Transit Connect": [
+            "Benzín",
+            "Diesel"
+        ],
+        "Transit Courier": [
+            "Benzín"
+        ],
+        "Transit Custom": [
+            "Diesel"
+        ],
+        "Transporter": [
+            "Diesel"
+        ],
+        "Traveller": [
+            "Diesel"
+        ],
+        "Trax": [
+            "Benzín",
+            "Diesel"
+        ],
+        "Trida A": [
+            "Benzín",
+            "Diesel"
+        ],
+        "Trida B": [
+            "Benzín",
+            "Diesel"
+        ],
+        "Trida C": [
+            "Benzín",
+            "Diesel"
+        ],
+        "Trida E": [
+            "Benzín",
+            "Diesel"
+        ],
+        "Trida M": [
+            "Diesel"
+        ],
+        "Tt": [
+            "Benzín"
+        ],
+        "Tt Coupe": [
+            "Benzín"
+        ],
+        "Tucson": [
+            "Benzín",
+            "Diesel",
+            "Full-Hybrid (FHEV)",
+            "LPG",
+            "Mild-Hybrid (MHEV)"
+        ],
+        "Twingo": [
+            "Benzín"
+        ],
+        "U Tour": [
+            "Benzín"
+        ],
+        "Up": [
+            "Benzín"
+        ],
+        "Up!": [
+            "Benzín"
+        ],
+        "V": [
+            "Diesel"
+        ],
+        "V40": [
+            "Benzín",
+            "Diesel"
+        ],
+        "V50": [
+            "Diesel"
+        ],
+        "V60": [
+            "Benzín",
+            "Diesel",
+            "Plug-in Hybrid (PHEV)"
+        ],
+        "V60 Cross Country": [
+            "Diesel"
+        ],
+        "V70": [
+            "Diesel"
+        ],
+        "V90": [
+            "Diesel",
+            "Mild-Hybrid (MHEV)",
+            "Plug-in Hybrid (PHEV)"
+        ],
+        "V90 Cross Country": [
+            "Diesel"
+        ],
+        "Vectra": [
+            "Benzín"
+        ],
+        "Venga": [
+            "Benzín",
+            "Diesel"
+        ],
+        "Verso": [
+            "Benzín",
+            "Diesel"
+        ],
+        "Viano": [
+            "Diesel"
+        ],
+        "Vitara": [
+            "Benzín",
+            "Mild-Hybrid (MHEV)"
+        ],
+        "Vito": [
+            "Diesel"
+        ],
+        "Vivaro": [
+            "Diesel"
+        ],
+        "Voyager": [
+            "Diesel"
+        ],
+        "Wrangler": [
+            "Benzín",
+            "Diesel"
+        ],
+        "X": [
+            "Diesel"
+        ],
+        "X Trail": [
+            "Benzín",
+            "Diesel"
+        ],
+        "X1": [
+            "Benzín",
+            "Diesel",
+            "Mild-Hybrid (MHEV)"
+        ],
+        "X2": [
+            "Benzín",
+            "Diesel"
+        ],
+        "X3": [
+            "Benzín",
+            "Diesel",
+            "Mild-Hybrid (MHEV)"
+        ],
+        "X4": [
+            "Benzín",
+            "Diesel"
+        ],
+        "X5": [
+            "Diesel",
+            "Mild-Hybrid (MHEV)"
+        ],
+        "X6": [
+            "Diesel",
+            "Mild-Hybrid (MHEV)"
+        ],
+        "X7": [
+            "Diesel"
+        ],
+        "Xantia": [
+            "Diesel"
+        ],
+        "Xc40": [
+            "Benzín",
+            "Mild-Hybrid (MHEV)"
+        ],
+        "Xc60": [
+            "Benzín",
+            "Diesel",
+            "Mild-Hybrid (MHEV)",
+            "Plug-in Hybrid (PHEV)"
+        ],
+        "Xc70": [
+            "Diesel"
+        ],
+        "Xc90": [
+            "Benzín",
+            "Diesel",
+            "Mild-Hybrid (MHEV)",
+            "Plug-in Hybrid (PHEV)"
+        ],
+        "Xceed": [
+            "Benzín",
+            "Diesel",
+            "Mild-Hybrid (MHEV)",
+            "Plug-in Hybrid (PHEV)"
+        ],
+        "Xe": [
+            "Diesel"
+        ],
+        "Xf": [
+            "Benzín",
+            "Diesel"
+        ],
+        "Xj": [
+            "Diesel"
+        ],
+        "Xsara": [
+            "Benzín"
+        ],
+        "Xsara Picasso": [
+            "Benzín",
+            "Diesel"
+        ],
+        "Xv": [
+            "Benzín"
+        ],
+        "Yaris": [
+            "Benzín",
+            "Full-Hybrid (FHEV)"
+        ],
+        "Yaris Cross": [
+            "Benzín",
+            "Full-Hybrid (FHEV)"
+        ],
+        "Yeti": [
+            "Benzín",
+            "Diesel"
+        ],
+        "Zafira": [
+            "Benzín",
+            "Diesel",
+            "LPG"
+        ],
+        "Zafira Life": [
+            "Diesel"
+        ],
+        "Zafira Tourer": [
+            "Benzín",
+            "Diesel",
+            "LPG"
+        ],
+        "Zoe": [
+            "Battery EV (BEV)"
+        ],
+        "Zs": [
+            "Benzín"
+        ],
+        "Zs Suv": [
+            "Battery EV (BEV)",
+            "Benzín"
+        ]
+    },
+    "model_transmissions": {
+        "1": [
+            "A",
+            "M"
+        ],
+        "100": [
+            "M"
+        ],
+        "105": [
+            "M"
+        ],
+        "107": [
+            "A",
+            "M"
+        ],
+        "108": [
+            "A",
+            "M"
+        ],
+        "120": [
+            "M"
+        ],
+        "156": [
+            "M"
+        ],
+        "159": [
+            "M"
+        ],
+        "2": [
+            "A",
+            "M"
+        ],
+        "2 Active Tourer": [
+            "A",
+            "M"
+        ],
+        "2 Gran Coupe": [
+            "A",
+            "M"
+        ],
+        "2 Gran Tourer": [
+            "A",
+            "M"
+        ],
+        "2008": [
+            "A",
+            "M"
+        ],
+        "206": [
+            "M"
+        ],
+        "207": [
+            "A",
+            "M"
+        ],
+        "208": [
+            "A",
+            "M"
+        ],
+        "3": [
+            "A",
+            "M"
+        ],
+        "3 Crossback": [
+            "A"
+        ],
+        "3 Door": [
+            "A",
+            "M"
+        ],
+        "3008": [
+            "A",
+            "M"
+        ],
+        "301": [
+            "M"
+        ],
+        "307": [
+            "A",
+            "M"
+        ],
+        "308": [
+            "A",
+            "M"
+        ],
+        "323": [
+            "M"
+        ],
+        "3gt": [
+            "A",
+            "M"
+        ],
+        "4": [
+            "A"
+        ],
+        "4 Crossback": [
+            "M"
+        ],
+        "4 Gran Coupe": [
+            "A",
+            "M"
+        ],
+        "4007": [
+            "M"
+        ],
+        "4008": [
+            "M"
+        ],
+        "407": [
+            "M"
+        ],
+        "5": [
+            "A",
+            "M"
+        ],
+        "5 Door": [
+            "A",
+            "M"
+        ],
+        "500": [
+            "A",
+            "M"
+        ],
+        "500 L": [
+            "M"
+        ],
+        "5008": [
+            "A",
+            "M"
+        ],
+        "500e": [
+            "A"
+        ],
+        "500l": [
+            "M"
+        ],
+        "500x": [
+            "A",
+            "M"
+        ],
+        "508": [
+            "A",
+            "M"
+        ],
+        "5gt": [
+            "A"
+        ],
+        "6": [
+            "A",
+            "M"
+        ],
+        "6 Gran Coupe": [
+            "A"
+        ],
+        "607": [
+            "M"
+        ],
+        "6gt": [
+            "A"
+        ],
+        "7": [
+            "A"
+        ],
+        "7 Crossback": [
+            "A"
+        ],
+        "807": [
+            "M"
+        ],
+        "9 3": [
+            "M"
+        ],
+        "911": [
+            "A",
+            "M"
+        ],
+        "924": [
+            "M"
+        ],
+        "99": [
+            "M"
+        ],
+        "A": [
+            "A",
+            "M"
+        ],
+        "A1": [
+            "A",
+            "M"
+        ],
+        "A2": [
+            "M"
+        ],
+        "A3": [
+            "A",
+            "M"
+        ],
+        "A4": [
+            "A",
+            "M"
+        ],
+        "A4 Allroad": [
+            "A",
+            "M"
+        ],
+        "A5": [
+            "A",
+            "M"
+        ],
+        "A6": [
+            "A",
+            "M"
+        ],
+        "A6 Allroad": [
+            "A"
+        ],
+        "A7": [
+            "A"
+        ],
+        "A8": [
+            "A"
+        ],
+        "Accent": [
+            "M"
+        ],
+        "Accord": [
+            "A",
+            "M"
+        ],
+        "Adam": [
+            "M"
+        ],
+        "Agila": [
+            "M"
+        ],
+        "Alhambra": [
+            "A",
+            "M"
+        ],
+        "Almera": [
+            "M"
+        ],
+        "Altea": [
+            "A",
+            "M"
+        ],
+        "Altea Xl": [
+            "M"
+        ],
+        "Alto": [
+            "M"
+        ],
+        "Amarok": [
+            "A",
+            "M"
+        ],
+        "Antara": [
+            "A",
+            "M"
+        ],
+        "Ariya": [
+            "A"
+        ],
+        "Arkana": [
+            "A"
+        ],
+        "Arona": [
+            "A",
+            "M"
+        ],
+        "Arteon": [
+            "A",
+            "M"
+        ],
+        "Astra": [
+            "A",
+            "M"
+        ],
+        "Asx": [
+            "A",
+            "M"
+        ],
+        "Ateca": [
+            "A",
+            "M"
+        ],
+        "Atos": [
+            "M"
+        ],
+        "Auris": [
+            "A",
+            "M"
+        ],
+        "Austral": [
+            "A",
+            "M"
+        ],
+        "Avensis": [
+            "M"
+        ],
+        "Aveo": [
+            "M"
+        ],
+        "Aygo": [
+            "A",
+            "M"
+        ],
+        "B": [
+            "A",
+            "M"
+        ],
+        "B Max": [
+            "M"
+        ],
+        "Bayon": [
+            "A",
+            "M"
+        ],
+        "Beetle": [
+            "M"
+        ],
+        "Berlingo": [
+            "A",
+            "M"
+        ],
+        "Bora": [
+            "M"
+        ],
+        "Born": [
+            "A"
+        ],
+        "Boxer": [
+            "M"
+        ],
+        "Bravo": [
+            "M"
+        ],
+        "C": [
+            "A",
+            "M"
+        ],
+        "C Crosser": [
+            "M"
+        ],
+        "C Elysee": [
+            "M"
+        ],
+        "C Hr": [
+            "A",
+            "M"
+        ],
+        "C Max": [
+            "M"
+        ],
+        "C1": [
+            "M"
+        ],
+        "C2": [
+            "M"
+        ],
+        "C3": [
+            "A",
+            "M"
+        ],
+        "C3 Aircross": [
+            "A",
+            "M"
+        ],
+        "C3 Picasso": [
+            "M"
+        ],
+        "C30": [
+            "M"
+        ],
+        "C4": [
+            "A",
+            "M"
+        ],
+        "C4 Aircross": [
+            "M"
+        ],
+        "C4 Cactus": [
+            "A",
+            "M"
+        ],
+        "C4 Grand Picasso": [
+            "A",
+            "M"
+        ],
+        "C4 Grand Spacetourer": [
+            "A",
+            "M"
+        ],
+        "C4 Picasso": [
+            "A",
+            "M"
+        ],
+        "C4 Spacetourer": [
+            "A",
+            "M"
+        ],
+        "C4 X": [
+            "A"
+        ],
+        "C40": [
+            "A"
+        ],
+        "C5": [
+            "A",
+            "M"
+        ],
+        "C5 Aircross": [
+            "A",
+            "M"
+        ],
+        "C8": [
+            "M"
+        ],
+        "Caddy": [
+            "A",
+            "M"
+        ],
+        "Camaro": [
+            "A"
+        ],
+        "Camry": [
+            "A"
+        ],
+        "Capri": [
+            "M"
+        ],
+        "Captiva": [
+            "A",
+            "M"
+        ],
+        "Captur": [
+            "A",
+            "M"
+        ],
+        "Caravelle": [
+            "A",
+            "M"
+        ],
+        "Carens": [
+            "M"
+        ],
+        "Carnival": [
+            "M"
+        ],
+        "Cayenne": [
+            "A"
+        ],
+        "Cc": [
+            "A",
+            "M"
+        ],
+        "Ceed": [
+            "A",
+            "M"
+        ],
+        "Cherokee": [
+            "A",
+            "M"
+        ],
+        "Chevy Van G20": [
+            "A"
+        ],
+        "Citan": [
+            "M"
+        ],
+        "Citigo": [
+            "A",
+            "M"
+        ],
+        "Citigo E": [
+            "A"
+        ],
+        "Civic": [
+            "A",
+            "M"
+        ],
+        "Cla": [
+            "A",
+            "M"
+        ],
+        "Clc": [
+            "A",
+            "M"
+        ],
+        "Clio": [
+            "A",
+            "M"
+        ],
+        "Clk": [
+            "A",
+            "M"
+        ],
+        "Cls": [
+            "A"
+        ],
+        "Clubman": [
+            "A",
+            "M"
+        ],
+        "Colt": [
+            "M"
+        ],
+        "Combo": [
+            "A",
+            "M"
+        ],
+        "Commander": [
+            "A"
+        ],
+        "Compass": [
+            "A",
+            "M"
+        ],
+        "Continental": [
+            "A"
+        ],
+        "Cooper": [
+            "A",
+            "M"
+        ],
+        "Cordoba": [
+            "M"
+        ],
+        "Corolla": [
+            "A",
+            "M"
+        ],
+        "Corolla Cross": [
+            "A"
+        ],
+        "Corolla Verso": [
+            "M"
+        ],
+        "Corsa": [
+            "A",
+            "M"
+        ],
+        "Corsa E": [
+            "A"
+        ],
+        "Countryman": [
+            "A",
+            "M"
+        ],
+        "Cr V": [
+            "A",
+            "M"
+        ],
+        "Crafter": [
+            "M"
+        ],
+        "Croma": [
+            "A",
+            "M"
+        ],
+        "Crossland": [
+            "A",
+            "M"
+        ],
+        "Crossland X": [
+            "A",
+            "M"
+        ],
+        "Cruze": [
+            "M"
+        ],
+        "Cx 3": [
+            "A",
+            "M"
+        ],
+        "Cx 30": [
+            "A",
+            "M"
+        ],
+        "Cx 5": [
+            "A",
+            "M"
+        ],
+        "Cx 60": [
+            "A"
+        ],
+        "Cx 7": [
+            "M"
+        ],
+        "Cx 9": [
+            "A"
+        ],
+        "Defender": [
+            "A"
+        ],
+        "Delta": [
+            "A"
+        ],
+        "Discovery": [
+            "A",
+            "M"
+        ],
+        "Discovery Sport": [
+            "A",
+            "M"
+        ],
+        "Doblo": [
+            "M"
+        ],
+        "Dokker": [
+            "M"
+        ],
+        "Ds3": [
+            "A",
+            "M"
+        ],
+        "Ds3 Crossback": [
+            "M"
+        ],
+        "Ds4": [
+            "A",
+            "M"
+        ],
+        "Ds5": [
+            "A"
+        ],
+        "Ducato": [
+            "M"
+        ],
+        "Durango": [
+            "A"
+        ],
+        "Duster": [
+            "A",
+            "M"
+        ],
+        "E": [
+            "A",
+            "M"
+        ],
+        "E 208": [
+            "A"
+        ],
+        "E C4": [
+            "A"
+        ],
+        "E Golf": [
+            "A"
+        ],
+        "E Niro": [
+            "A"
+        ],
+        "E Pace": [
+            "A",
+            "M"
+        ],
+        "E Rifter": [
+            "A"
+        ],
+        "E Soul": [
+            "A"
+        ],
+        "E Tron": [
+            "A"
+        ],
+        "E Tron Sportback": [
+            "A"
+        ],
+        "E Up!": [
+            "A"
+        ],
+        "E:Ny1": [
+            "A"
+        ],
+        "Eclipse Cross": [
+            "A",
+            "M"
+        ],
+        "Ecosport": [
+            "M"
+        ],
+        "Edge": [
+            "A"
+        ],
+        "Elantra": [
+            "M"
+        ],
+        "Enyaq": [
+            "A"
+        ],
+        "Eos": [
+            "M"
+        ],
+        "Epica": [
+            "A"
+        ],
+        "Es": [
+            "A"
+        ],
+        "Espace": [
+            "A",
+            "M"
+        ],
+        "Ev6": [
+            "A"
+        ],
+        "Evoque": [
+            "A",
+            "M"
+        ],
+        "Exeo": [
+            "M"
+        ],
+        "Expert": [
+            "A",
+            "M"
+        ],
+        "F Pace": [
+            "A"
+        ],
+        "Fabia": [
+            "A",
+            "M"
+        ],
+        "Favorit": [
+            "M"
+        ],
+        "Felicia": [
+            "M"
+        ],
+        "Fiesta": [
+            "A",
+            "M"
+        ],
+        "Fluence": [
+            "M"
+        ],
+        "Focus": [
+            "A",
+            "M"
+        ],
+        "Forester": [
+            "A",
+            "M"
+        ],
+        "Forfour": [
+            "A"
+        ],
+        "Formentor": [
+            "A",
+            "M"
+        ],
+        "Forthing T5 Evo": [
+            "A"
+        ],
+        "Fortwo": [
+            "A"
+        ],
+        "Fox": [
+            "M"
+        ],
+        "Freelander": [
+            "A",
+            "M"
+        ],
+        "Freemont": [
+            "A",
+            "M"
+        ],
+        "Fullback": [
+            "A"
+        ],
+        "Fulvia": [
+            "M"
+        ],
+        "Fusion": [
+            "M"
+        ],
+        "G": [
+            "A"
+        ],
+        "G70": [
+            "A"
+        ],
+        "Galaxy": [
+            "A",
+            "M"
+        ],
+        "Getz": [
+            "M"
+        ],
+        "Giulia": [
+            "M"
+        ],
+        "Giulietta": [
+            "A"
+        ],
+        "Gl": [
+            "A"
+        ],
+        "Gla": [
+            "A"
+        ],
+        "Gladiator": [
+            "A"
+        ],
+        "Glb": [
+            "A"
+        ],
+        "Glc": [
+            "A"
+        ],
+        "Glc Coupe": [
+            "A"
+        ],
+        "Gle": [
+            "A"
+        ],
+        "Gle Coupe": [
+            "A"
+        ],
+        "Glk": [
+            "A"
+        ],
+        "Gls": [
+            "A"
+        ],
+        "Golf": [
+            "A",
+            "M"
+        ],
+        "Golf Plus": [
+            "A",
+            "M"
+        ],
+        "Golf Sportsvan": [
+            "A",
+            "M"
+        ],
+        "Grand C Max": [
+            "A",
+            "M"
+        ],
+        "Grand C4 Spacetourer": [
+            "A"
+        ],
+        "Grand Cherokee": [
+            "A"
+        ],
+        "Grand Santa Fe": [
+            "A"
+        ],
+        "Grand Scenic": [
+            "A",
+            "M"
+        ],
+        "Grand Vitara": [
+            "M"
+        ],
+        "Grandis": [
+            "M"
+        ],
+        "Grandland": [
+            "A",
+            "M"
+        ],
+        "Grandland X": [
+            "A",
+            "M"
+        ],
+        "H 1": [
+            "M"
+        ],
+        "H 1 Tour": [
+            "A"
+        ],
+        "H350": [
+            "M"
+        ],
+        "Hilux": [
+            "M"
+        ],
+        "Hr V": [
+            "A",
+            "M"
+        ],
+        "Hs": [
+            "A",
+            "M"
+        ],
+        "I10": [
+            "A",
+            "M"
+        ],
+        "I20": [
+            "A",
+            "M"
+        ],
+        "I3": [
+            "A"
+        ],
+        "I30": [
+            "A",
+            "M"
+        ],
+        "I30 Fastback": [
+            "A",
+            "M"
+        ],
+        "I40": [
+            "A",
+            "M"
+        ],
+        "Ibiza": [
+            "A",
+            "M"
+        ],
+        "Id.3": [
+            "A"
+        ],
+        "Id.4": [
+            "A"
+        ],
+        "Id.5": [
+            "A"
+        ],
+        "Ignis": [
+            "A",
+            "M"
+        ],
+        "Impreza": [
+            "M"
+        ],
+        "Insignia": [
+            "A",
+            "M"
+        ],
+        "Ioniq": [
+            "A"
+        ],
+        "Ioniq 5": [
+            "A"
+        ],
+        "Ix": [
+            "A"
+        ],
+        "Ix1": [
+            "A"
+        ],
+        "Ix20": [
+            "A",
+            "M"
+        ],
+        "Ix35": [
+            "A",
+            "M"
+        ],
+        "Ix55": [
+            "A"
+        ],
+        "Jazz": [
+            "M"
+        ],
+        "Jetta": [
+            "A",
+            "M"
+        ],
+        "Jimny": [
+            "M"
+        ],
+        "Jogger": [
+            "M"
+        ],
+        "Juke": [
+            "A",
+            "M"
+        ],
+        "Jumper": [
+            "M"
+        ],
+        "Jumpy": [
+            "A",
+            "M"
+        ],
+        "Ka": [
+            "M"
+        ],
+        "Kadjar": [
+            "A",
+            "M"
+        ],
+        "Kalos": [
+            "M"
+        ],
+        "Kamiq": [
+            "A",
+            "M"
+        ],
+        "Kangoo": [
+            "M"
+        ],
+        "Karoq": [
+            "A",
+            "M"
+        ],
+        "Kodiaq": [
+            "A",
+            "M"
+        ],
+        "Koleos": [
+            "A",
+            "M"
+        ],
+        "Kona": [
+            "A",
+            "M"
+        ],
+        "Korando": [
+            "A",
+            "M"
+        ],
+        "Kuga": [
+            "A",
+            "M"
+        ],
+        "L200": [
+            "A",
+            "M"
+        ],
+        "Lacetti": [
+            "M"
+        ],
+        "Laguna": [
+            "A",
+            "M"
+        ],
+        "Lancer": [
+            "M"
+        ],
+        "Land Cruiser": [
+            "A",
+            "M"
+        ],
+        "Latitude": [
+            "M"
+        ],
+        "Leaf": [
+            "A"
+        ],
+        "Legacy": [
+            "A"
+        ],
+        "Leon": [
+            "A",
+            "M"
+        ],
+        "Linea": [
+            "A",
+            "M"
+        ],
+        "Lodgy": [
+            "M"
+        ],
+        "Logan": [
+            "M"
+        ],
+        "M3": [
+            "A",
+            "M"
+        ],
+        "Malibu": [
+            "M"
+        ],
+        "Master": [
+            "M"
+        ],
+        "Matrix": [
+            "M"
+        ],
+        "Megane": [
+            "A",
+            "M"
+        ],
+        "Meriva": [
+            "A",
+            "M"
+        ],
+        "Micra": [
+            "M"
+        ],
+        "Mirai": [
+            "A"
+        ],
+        "Ml": [
+            "A"
+        ],
+        "Model 3": [
+            "A"
+        ],
+        "Model S": [
+            "A"
+        ],
+        "Model Y": [
+            "A"
+        ],
+        "Modus": [
+            "M"
+        ],
+        "Mokka": [
+            "A",
+            "M"
+        ],
+        "Mondeo": [
+            "A",
+            "M"
+        ],
+        "Movano": [
+            "M"
+        ],
+        "Multivan": [
+            "A",
+            "M"
+        ],
+        "Musso": [
+            "A",
+            "M"
+        ],
+        "Mustang": [
+            "A",
+            "M"
+        ],
+        "Mx": [
+            "M"
+        ],
+        "Mx 30": [
+            "A"
+        ],
+        "Navara": [
+            "A",
+            "M"
+        ],
+        "Nemo": [
+            "M"
+        ],
+        "New Beetle": [
+            "M"
+        ],
+        "Niro": [
+            "A"
+        ],
+        "Niva": [
+            "M"
+        ],
+        "Note": [
+            "M"
+        ],
+        "Nubira": [
+            "M"
+        ],
+        "Nx": [
+            "A"
+        ],
+        "Octavia": [
+            "A",
+            "M"
+        ],
+        "Octavia Scout": [
+            "A",
+            "M"
+        ],
+        "Omega": [
+            "A"
+        ],
+        "One": [
+            "M"
+        ],
+        "Optima": [
+            "A",
+            "M"
+        ],
+        "Orlando": [
+            "A",
+            "M"
+        ],
+        "Outback": [
+            "A"
+        ],
+        "Outlander": [
+            "A",
+            "M"
+        ],
+        "Pajero": [
+            "A"
+        ],
+        "Pajero Sport": [
+            "M"
+        ],
+        "Panamera": [
+            "A"
+        ],
+        "Panda": [
+            "M"
+        ],
+        "Partner": [
+            "M"
+        ],
+        "Passat": [
+            "A",
+            "M"
+        ],
+        "Passat Cc": [
+            "A",
+            "M"
+        ],
+        "Pathfinder": [
+            "A",
+            "M"
+        ],
+        "Picanto": [
+            "M"
+        ],
+        "Pixo": [
+            "M"
+        ],
+        "Polo": [
+            "A",
+            "M"
+        ],
+        "Praktik": [
+            "M"
+        ],
+        "Primera": [
+            "M"
+        ],
+        "Prius": [
+            "A"
+        ],
+        "Proace": [
+            "M"
+        ],
+        "Proace City": [
+            "M"
+        ],
+        "Proace City Verso": [
+            "A",
+            "M"
+        ],
+        "Proace Verso": [
+            "A",
+            "M"
+        ],
+        "Proceed": [
+            "A",
+            "M"
+        ],
+        "Pt Cruiser": [
+            "A"
+        ],
+        "Pulsar": [
+            "M"
+        ],
+        "Puma": [
+            "A",
+            "M"
+        ],
+        "Punto": [
+            "M"
+        ],
+        "Punto Evo": [
+            "M"
+        ],
+        "Q2": [
+            "A"
+        ],
+        "Q3": [
+            "A",
+            "M"
+        ],
+        "Q3 Sportback": [
+            "A"
+        ],
+        "Q5": [
+            "A",
+            "M"
+        ],
+        "Q5 Sportback": [
+            "A"
+        ],
+        "Q50": [
+            "A"
+        ],
+        "Q7": [
+            "A"
+        ],
+        "Q8": [
+            "A"
+        ],
+        "Qashqai": [
+            "A",
+            "M"
+        ],
+        "Qashqai+2": [
+            "M"
+        ],
+        "Qubo": [
+            "M"
+        ],
+        "Qx70": [
+            "A"
+        ],
+        "R": [
+            "A"
+        ],
+        "R7": [
+            "A"
+        ],
+        "Rada 1": [
+            "A",
+            "M"
+        ],
+        "Rada 3": [
+            "A",
+            "M"
+        ],
+        "Rada 4": [
+            "A"
+        ],
+        "Rada 5": [
+            "A",
+            "M"
+        ],
+        "Range Rover": [
+            "A"
+        ],
+        "Range Rover Evoque": [
+            "A"
+        ],
+        "Range Rover Sport": [
+            "A"
+        ],
+        "Range Rover Velar": [
+            "A"
+        ],
+        "Ranger": [
+            "A",
+            "M"
+        ],
+        "Ranger Raptor": [
+            "A"
+        ],
+        "Rapid": [
+            "A",
+            "M"
+        ],
+        "Rapid Spaceback": [
+            "A",
+            "M"
+        ],
+        "Rav4": [
+            "A",
+            "M"
+        ],
+        "Renegade": [
+            "A",
+            "M"
+        ],
+        "Rexton": [
+            "A",
+            "M"
+        ],
+        "Rifter": [
+            "A",
+            "M"
+        ],
+        "Rio": [
+            "A",
+            "M"
+        ],
+        "Roomster": [
+            "A",
+            "M"
+        ],
+        "Rs Q8": [
+            "A"
+        ],
+        "Rx300": [
+            "A"
+        ],
+        "S": [
+            "A"
+        ],
+        "S Cross": [
+            "M"
+        ],
+        "S Max": [
+            "A",
+            "M"
+        ],
+        "S3": [
+            "M"
+        ],
+        "S6": [
+            "A"
+        ],
+        "S60": [
+            "A",
+            "M"
+        ],
+        "S80": [
+            "A"
+        ],
+        "S90": [
+            "A"
+        ],
+        "Sandero": [
+            "A",
+            "M"
+        ],
+        "Santa Fe": [
+            "A",
+            "M"
+        ],
+        "Scala": [
+            "A",
+            "M"
+        ],
+        "Scenic": [
+            "A",
+            "M"
+        ],
+        "Scirocco": [
+            "M"
+        ],
+        "Scudo": [
+            "M"
+        ],
+        "Seagull": [
+            "A"
+        ],
+        "Sedici": [
+            "M"
+        ],
+        "Sharan": [
+            "A",
+            "M"
+        ],
+        "Sl": [
+            "A"
+        ],
+        "Slk": [
+            "A"
+        ],
+        "Sonata": [
+            "A"
+        ],
+        "Sorento": [
+            "A",
+            "M"
+        ],
+        "Soul": [
+            "A",
+            "M"
+        ],
+        "Space Star": [
+            "A",
+            "M"
+        ],
+        "Spacetourer": [
+            "A",
+            "M"
+        ],
+        "Spark": [
+            "M"
+        ],
+        "Sportage": [
+            "A",
+            "M"
+        ],
+        "Sportsvan": [
+            "A",
+            "M"
+        ],
+        "Spring": [
+            "A"
+        ],
+        "Sprinter": [
+            "A",
+            "M"
+        ],
+        "Sq7": [
+            "A"
+        ],
+        "Stelvio": [
+            "A"
+        ],
+        "Stilo": [
+            "M"
+        ],
+        "Stonic": [
+            "A",
+            "M"
+        ],
+        "Superb": [
+            "A",
+            "M"
+        ],
+        "Swace": [
+            "A"
+        ],
+        "Swift": [
+            "M"
+        ],
+        "Sx4": [
+            "M"
+        ],
+        "Sx4 S Cross": [
+            "A",
+            "M"
+        ],
+        "Symbioz": [
+            "A"
+        ],
+        "T Cross": [
+            "A",
+            "M"
+        ],
+        "T Roc": [
+            "A",
+            "M"
+        ],
+        "Taigo": [
+            "A",
+            "M"
+        ],
+        "Talento": [
+            "M"
+        ],
+        "Talisman": [
+            "A"
+        ],
+        "Tarraco": [
+            "A",
+            "M"
+        ],
+        "Terracan": [
+            "A"
+        ],
+        "Tge": [
+            "M"
+        ],
+        "Thalia": [
+            "M"
+        ],
+        "Thema": [
+            "A"
+        ],
+        "Tiguan": [
+            "A",
+            "M"
+        ],
+        "Tiguan Allspace": [
+            "A",
+            "M"
+        ],
+        "Tiida": [
+            "M"
+        ],
+        "Tipo": [
+            "A",
+            "M"
+        ],
+        "Tivoli": [
+            "A",
+            "M"
+        ],
+        "Toledo": [
+            "M"
+        ],
+        "Tonale": [
+            "A"
+        ],
+        "Torres": [
+            "A"
+        ],
+        "Touareg": [
+            "A",
+            "M"
+        ],
+        "Touran": [
+            "A",
+            "M"
+        ],
+        "Tourneo Connect": [
+            "A",
+            "M"
+        ],
+        "Tourneo Courier": [
+            "M"
+        ],
+        "Tourneo Custom": [
+            "A",
+            "M"
+        ],
+        "Townstar": [
+            "M"
+        ],
+        "Trafic": [
+            "A",
+            "M"
+        ],
+        "Trajet": [
+            "M"
+        ],
+        "Transit": [
+            "M"
+        ],
+        "Transit Connect": [
+            "M"
+        ],
+        "Transit Courier": [
+            "M"
+        ],
+        "Transit Custom": [
+            "M"
+        ],
+        "Transporter": [
+            "A",
+            "M"
+        ],
+        "Traveller": [
+            "A",
+            "M"
+        ],
+        "Trax": [
+            "M"
+        ],
+        "Trida A": [
+            "M"
+        ],
+        "Trida B": [
+            "A",
+            "M"
+        ],
+        "Trida C": [
+            "A",
+            "M"
+        ],
+        "Trida E": [
+            "A",
+            "M"
+        ],
+        "Trida M": [
+            "A"
+        ],
+        "Tt": [
+            "A",
+            "M"
+        ],
+        "Tt Coupe": [
+            "A"
+        ],
+        "Tucson": [
+            "A",
+            "M"
+        ],
+        "Twingo": [
+            "A",
+            "M"
+        ],
+        "U Tour": [
+            "A"
+        ],
+        "Up": [
+            "M"
+        ],
+        "Up!": [
+            "M"
+        ],
+        "V": [
+            "A"
+        ],
+        "V40": [
+            "M"
+        ],
+        "V50": [
+            "M"
+        ],
+        "V60": [
+            "A",
+            "M"
+        ],
+        "V60 Cross Country": [
+            "A"
+        ],
+        "V70": [
+            "A"
+        ],
+        "V90": [
+            "A"
+        ],
+        "V90 Cross Country": [
+            "A"
+        ],
+        "Vectra": [
+            "M"
+        ],
+        "Venga": [
+            "M"
+        ],
+        "Verso": [
+            "A",
+            "M"
+        ],
+        "Viano": [
+            "A",
+            "M"
+        ],
+        "Vitara": [
+            "A",
+            "M"
+        ],
+        "Vito": [
+            "A",
+            "M"
+        ],
+        "Vivaro": [
+            "M"
+        ],
+        "Voyager": [
+            "A"
+        ],
+        "Wrangler": [
+            "A"
+        ],
+        "X": [
+            "A"
+        ],
+        "X Trail": [
+            "A",
+            "M"
+        ],
+        "X1": [
+            "A",
+            "M"
+        ],
+        "X2": [
+            "A"
+        ],
+        "X3": [
+            "A",
+            "M"
+        ],
+        "X4": [
+            "A",
+            "M"
+        ],
+        "X5": [
+            "A"
+        ],
+        "X6": [
+            "A"
+        ],
+        "X7": [
+            "A"
+        ],
+        "Xantia": [
+            "M"
+        ],
+        "Xc40": [
+            "A",
+            "M"
+        ],
+        "Xc60": [
+            "A",
+            "M"
+        ],
+        "Xc70": [
+            "A"
+        ],
+        "Xc90": [
+            "A"
+        ],
+        "Xceed": [
+            "A",
+            "M"
+        ],
+        "Xe": [
+            "A"
+        ],
+        "Xf": [
+            "A"
+        ],
+        "Xj": [
+            "A"
+        ],
+        "Xsara": [
+            "M"
+        ],
+        "Xsara Picasso": [
+            "M"
+        ],
+        "Xv": [
+            "A",
+            "M"
+        ],
+        "Yaris": [
+            "A",
+            "M"
+        ],
+        "Yaris Cross": [
+            "A"
+        ],
+        "Yeti": [
+            "A",
+            "M"
+        ],
+        "Zafira": [
+            "A",
+            "M"
+        ],
+        "Zafira Life": [
+            "A",
+            "M"
+        ],
+        "Zafira Tourer": [
+            "A",
+            "M"
+        ],
+        "Zoe": [
+            "A"
+        ],
+        "Zs": [
+            "M"
+        ],
+        "Zs Suv": [
+            "A",
+            "M"
+        ]
+    },
+    "model_body_types": {
+        "1": [
+            "H"
+        ],
+        "100": [
+            "S"
+        ],
+        "105": [
+            "S"
+        ],
+        "107": [
+            "H"
+        ],
+        "108": [
+            "H"
+        ],
+        "120": [
+            "S"
+        ],
+        "156": [
+            "C"
+        ],
+        "159": [
+            "C"
+        ],
+        "2": [
+            "CPE",
+            "H"
+        ],
+        "2 Active Tourer": [
+            "MPV"
+        ],
+        "2 Gran Coupe": [
+            "CPE",
+            "S"
+        ],
+        "2 Gran Tourer": [
+            "MPV"
+        ],
+        "2008": [
+            "SUV"
+        ],
+        "206": [
+            "C",
+            "CAB",
+            "H"
+        ],
+        "207": [
+            "C",
+            "H"
+        ],
+        "208": [
+            "H"
+        ],
+        "3": [
+            "C",
+            "CAB",
+            "H",
+            "S"
+        ],
+        "3 Crossback": [
+            "SUV"
+        ],
+        "3 Door": [
+            "H"
+        ],
+        "3008": [
+            "MPV",
+            "SUV"
+        ],
+        "301": [
+            "H",
+            "S"
+        ],
+        "307": [
+            "C",
+            "H"
+        ],
+        "308": [
+            "C",
+            "H"
+        ],
+        "323": [
+            "H"
+        ],
+        "3gt": [
+            "S"
+        ],
+        "4": [
+            "CAB",
+            "CPE",
+            "H"
+        ],
+        "4 Crossback": [
+            "H"
+        ],
+        "4 Gran Coupe": [
+            "S"
+        ],
+        "4007": [
+            "SUV"
+        ],
+        "4008": [
+            "SUV"
+        ],
+        "407": [
+            "C",
+            "S"
+        ],
+        "5": [
+            "C",
+            "H",
+            "MPV",
+            "S"
+        ],
+        "5 Door": [
+            "H"
+        ],
+        "500": [
+            "H"
+        ],
+        "500 L": [
+            "MPV"
+        ],
+        "5008": [
+            "MPV",
+            "SUV"
+        ],
+        "500e": [
+            "H"
+        ],
+        "500l": [
+            "MPV"
+        ],
+        "500x": [
+            "SUV"
+        ],
+        "508": [
+            "C",
+            "S"
+        ],
+        "5gt": [
+            "S"
+        ],
+        "6": [
+            "C",
+            "H",
+            "S"
+        ],
+        "6 Gran Coupe": [
+            "S"
+        ],
+        "607": [
+            "S"
+        ],
+        "6gt": [
+            "S"
+        ],
+        "7": [
+            "S"
+        ],
+        "7 Crossback": [
+            "SUV"
+        ],
+        "807": [
+            "MPV"
+        ],
+        "9 3": [
+            "C"
+        ],
+        "911": [
+            "CAB",
+            "CPE"
+        ],
+        "924": [
+            "CPE"
+        ],
+        "99": [
+            "S"
+        ],
+        "A": [
+            "H",
+            "S"
+        ],
+        "A1": [
+            "H"
+        ],
+        "A2": [
+            "H"
+        ],
+        "A3": [
+            "C",
+            "H",
+            "S"
+        ],
+        "A4": [
+            "C",
+            "CAB",
+            "S"
+        ],
+        "A4 Allroad": [
+            "C"
+        ],
+        "A5": [
+            "CAB",
+            "CPE",
+            "S"
+        ],
+        "A6": [
+            "C",
+            "S"
+        ],
+        "A6 Allroad": [
+            "C"
+        ],
+        "A7": [
+            "H",
+            "S"
+        ],
+        "A8": [
+            "S"
+        ],
+        "Accent": [
+            "S"
+        ],
+        "Accord": [
+            "C",
+            "S"
+        ],
+        "Adam": [
+            "H"
+        ],
+        "Agila": [
+            "H"
+        ],
+        "Alhambra": [
+            "MPV"
+        ],
+        "Almera": [
+            "H"
+        ],
+        "Altea": [
+            "C",
+            "H",
+            "MPV"
+        ],
+        "Altea Xl": [
+            "MPV"
+        ],
+        "Alto": [
+            "H"
+        ],
+        "Amarok": [
+            "OFF"
+        ],
+        "Antara": [
+            "SUV"
+        ],
+        "Ariya": [
+            "SUV"
+        ],
+        "Arkana": [
+            "SUV"
+        ],
+        "Arona": [
+            "SUV"
+        ],
+        "Arteon": [
+            "C",
+            "S"
+        ],
+        "Astra": [
+            "C",
+            "H",
+            "S"
+        ],
+        "Asx": [
+            "C",
+            "SUV"
+        ],
+        "Ateca": [
+            "SUV"
+        ],
+        "Atos": [
+            "H"
+        ],
+        "Auris": [
+            "C",
+            "H"
+        ],
+        "Austral": [
+            "SUV"
+        ],
+        "Avensis": [
+            "C",
+            "S"
+        ],
+        "Aveo": [
+            "H",
+            "S"
+        ],
+        "Aygo": [
+            "H"
+        ],
+        "B": [
+            "MPV"
+        ],
+        "B Max": [
+            "H",
+            "MPV"
+        ],
+        "Bayon": [
+            "SUV"
+        ],
+        "Beetle": [
+            "CAB",
+            "H"
+        ],
+        "Berlingo": [
+            "MPV",
+            "P"
+        ],
+        "Bora": [
+            "C"
+        ],
+        "Born": [
+            "H"
+        ],
+        "Boxer": [
+            "V",
+            "VA"
+        ],
+        "Bravo": [
+            "H"
+        ],
+        "C": [
+            "C",
+            "CPE",
+            "S"
+        ],
+        "C Crosser": [
+            "C",
+            "SUV"
+        ],
+        "C Elysee": [
+            "S"
+        ],
+        "C Hr": [
+            "SUV"
+        ],
+        "C Max": [
+            "C",
+            "H",
+            "MPV"
+        ],
+        "C1": [
+            "H"
+        ],
+        "C2": [
+            "H"
+        ],
+        "C3": [
+            "H"
+        ],
+        "C3 Aircross": [
+            "SUV"
+        ],
+        "C3 Picasso": [
+            "MPV"
+        ],
+        "C30": [
+            "H"
+        ],
+        "C4": [
+            "C",
+            "CPE",
+            "H"
+        ],
+        "C4 Aircross": [
+            "SUV"
+        ],
+        "C4 Cactus": [
+            "H"
+        ],
+        "C4 Grand Picasso": [
+            "MPV"
+        ],
+        "C4 Grand Spacetourer": [
+            "MPV"
+        ],
+        "C4 Picasso": [
+            "MPV"
+        ],
+        "C4 Spacetourer": [
+            "MPV"
+        ],
+        "C4 X": [
+            "S"
+        ],
+        "C40": [
+            "SUV"
+        ],
+        "C5": [
+            "C",
+            "H",
+            "S"
+        ],
+        "C5 Aircross": [
+            "SUV"
+        ],
+        "C8": [
+            "MPV"
+        ],
+        "Caddy": [
+            "MPV",
+            "P"
+        ],
+        "Camaro": [
+            "CAB",
+            "CPE"
+        ],
+        "Camry": [
+            "S"
+        ],
+        "Capri": [
+            "CPE"
+        ],
+        "Captiva": [
+            "SUV"
+        ],
+        "Captur": [
+            "H",
+            "SUV"
+        ],
+        "Caravelle": [
+            "B"
+        ],
+        "Carens": [
+            "C",
+            "H",
+            "MPV"
+        ],
+        "Carnival": [
+            "MPV"
+        ],
+        "Cayenne": [
+            "SUV"
+        ],
+        "Cc": [
+            "CPE",
+            "S"
+        ],
+        "Ceed": [
+            "C",
+            "H"
+        ],
+        "Cherokee": [
+            "OFF",
+            "SUV"
+        ],
+        "Chevy Van G20": [
+            "B"
+        ],
+        "Citan": [
+            "P"
+        ],
+        "Citigo": [
+            "H"
+        ],
+        "Citigo E": [
+            "H"
+        ],
+        "Civic": [
+            "C",
+            "H"
+        ],
+        "Cla": [
+            "C",
+            "S"
+        ],
+        "Clc": [
+            "CPE"
+        ],
+        "Clio": [
+            "C",
+            "H"
+        ],
+        "Clk": [
+            "CAB",
+            "CPE",
+            "S"
+        ],
+        "Cls": [
+            "C",
+            "S"
+        ],
+        "Clubman": [
+            "C",
+            "H"
+        ],
+        "Colt": [
+            "H"
+        ],
+        "Combo": [
+            "MPV",
+            "P"
+        ],
+        "Commander": [
+            "OFF"
+        ],
+        "Compass": [
+            "SUV"
+        ],
+        "Continental": [
+            "S"
+        ],
+        "Cooper": [
+            "CPE",
+            "H"
+        ],
+        "Cordoba": [
+            "S"
+        ],
+        "Corolla": [
+            "C",
+            "H",
+            "S"
+        ],
+        "Corolla Cross": [
+            "SUV"
+        ],
+        "Corolla Verso": [
+            "C",
+            "MPV"
+        ],
+        "Corsa": [
+            "H"
+        ],
+        "Corsa E": [
+            "H"
+        ],
+        "Countryman": [
+            "C",
+            "H",
+            "SUV"
+        ],
+        "Cr V": [
+            "SUV"
+        ],
+        "Crafter": [
+            "V"
+        ],
+        "Croma": [
+            "C",
+            "MPV"
+        ],
+        "Crossland": [
+            "SUV"
+        ],
+        "Crossland X": [
+            "SUV"
+        ],
+        "Cruze": [
+            "C",
+            "H",
+            "S"
+        ],
+        "Cx 3": [
+            "SUV"
+        ],
+        "Cx 30": [
+            "SUV"
+        ],
+        "Cx 5": [
+            "C",
+            "SUV"
+        ],
+        "Cx 60": [
+            "SUV"
+        ],
+        "Cx 7": [
+            "SUV"
+        ],
+        "Cx 9": [
+            "SUV"
+        ],
+        "Defender": [
+            "OFF"
+        ],
+        "Delta": [
+            "H"
+        ],
+        "Discovery": [
+            "SUV"
+        ],
+        "Discovery Sport": [
+            "SUV"
+        ],
+        "Doblo": [
+            "MPV",
+            "P"
+        ],
+        "Dokker": [
+            "MPV",
+            "P"
+        ],
+        "Ds3": [
+            "H",
+            "SUV"
+        ],
+        "Ds3 Crossback": [
+            "SUV"
+        ],
+        "Ds4": [
+            "C",
+            "H"
+        ],
+        "Ds5": [
+            "H"
+        ],
+        "Ducato": [
+            "V"
+        ],
+        "Durango": [
+            "SUV"
+        ],
+        "Duster": [
+            "C",
+            "SUV"
+        ],
+        "E": [
+            "C",
+            "CAB",
+            "CPE",
+            "S"
+        ],
+        "E 208": [
+            "H"
+        ],
+        "E C4": [
+            "H"
+        ],
+        "E Golf": [
+            "H"
+        ],
+        "E Niro": [
+            "SUV"
+        ],
+        "E Pace": [
+            "SUV"
+        ],
+        "E Rifter": [
+            "P"
+        ],
+        "E Soul": [
+            "H"
+        ],
+        "E Tron": [
+            "SUV"
+        ],
+        "E Tron Sportback": [
+            "SUV"
+        ],
+        "E Up!": [
+            "H"
+        ],
+        "E:Ny1": [
+            "SUV"
+        ],
+        "Eclipse Cross": [
+            "SUV"
+        ],
+        "Ecosport": [
+            "SUV"
+        ],
+        "Edge": [
+            "SUV"
+        ],
+        "Elantra": [
+            "S"
+        ],
+        "Enyaq": [
+            "SUV"
+        ],
+        "Eos": [
+            "CAB"
+        ],
+        "Epica": [
+            "S"
+        ],
+        "Es": [
+            "S"
+        ],
+        "Espace": [
+            "MPV"
+        ],
+        "Ev6": [
+            "SUV"
+        ],
+        "Evoque": [
+            "SUV"
+        ],
+        "Exeo": [
+            "C"
+        ],
+        "Expert": [
+            "B",
+            "V"
+        ],
+        "F Pace": [
+            "C",
+            "SUV"
+        ],
+        "Fabia": [
+            "C",
+            "H",
+            "S"
+        ],
+        "Favorit": [
+            "H"
+        ],
+        "Felicia": [
+            "C",
+            "H"
+        ],
+        "Fiesta": [
+            "H"
+        ],
+        "Fluence": [
+            "S"
+        ],
+        "Focus": [
+            "C",
+            "CAB",
+            "H",
+            "S"
+        ],
+        "Forester": [
+            "SUV"
+        ],
+        "Forfour": [
+            "H"
+        ],
+        "Formentor": [
+            "SUV"
+        ],
+        "Forthing T5 Evo": [
+            "SUV"
+        ],
+        "Fortwo": [
+            "H"
+        ],
+        "Fox": [
+            "H"
+        ],
+        "Freelander": [
+            "SUV"
+        ],
+        "Freemont": [
+            "MPV",
+            "SUV"
+        ],
+        "Fullback": [
+            "OFF"
+        ],
+        "Fulvia": [
+            "CPE"
+        ],
+        "Fusion": [
+            "H",
+            "MPV"
+        ],
+        "G": [
+            "CAB"
+        ],
+        "G70": [
+            "S"
+        ],
+        "Galaxy": [
+            "MPV"
+        ],
+        "Getz": [
+            "H"
+        ],
+        "Giulia": [
+            "S"
+        ],
+        "Giulietta": [
+            "H"
+        ],
+        "Gl": [
+            "SUV"
+        ],
+        "Gla": [
+            "H",
+            "SUV"
+        ],
+        "Gladiator": [
+            "OFF",
+            "SUV"
+        ],
+        "Glb": [
+            "SUV"
+        ],
+        "Glc": [
+            "SUV"
+        ],
+        "Glc Coupe": [
+            "SUV"
+        ],
+        "Gle": [
+            "SUV"
+        ],
+        "Gle Coupe": [
+            "SUV"
+        ],
+        "Glk": [
+            "SUV"
+        ],
+        "Gls": [
+            "SUV"
+        ],
+        "Golf": [
+            "C",
+            "H"
+        ],
+        "Golf Plus": [
+            "C",
+            "H",
+            "MPV"
+        ],
+        "Golf Sportsvan": [
+            "MPV"
+        ],
+        "Grand C Max": [
+            "MPV"
+        ],
+        "Grand C4 Spacetourer": [
+            "MPV"
+        ],
+        "Grand Cherokee": [
+            "C",
+            "OFF",
+            "SUV"
+        ],
+        "Grand Santa Fe": [
+            "SUV"
+        ],
+        "Grand Scenic": [
+            "MPV"
+        ],
+        "Grand Vitara": [
+            "SUV"
+        ],
+        "Grandis": [
+            "MPV"
+        ],
+        "Grandland": [
+            "SUV"
+        ],
+        "Grandland X": [
+            "SUV"
+        ],
+        "H 1": [
+            "V"
+        ],
+        "H 1 Tour": [
+            "B"
+        ],
+        "H350": [
+            "V"
+        ],
+        "Hilux": [
+            "OFF"
+        ],
+        "Hr V": [
+            "SUV"
+        ],
+        "Hs": [
+            "SUV"
+        ],
+        "I10": [
+            "H"
+        ],
+        "I20": [
+            "H"
+        ],
+        "I3": [
+            "H"
+        ],
+        "I30": [
+            "C",
+            "H",
+            "S"
+        ],
+        "I30 Fastback": [
+            "H"
+        ],
+        "I40": [
+            "C",
+            "S"
+        ],
+        "Ibiza": [
+            "C",
+            "H"
+        ],
+        "Id.3": [
+            "H"
+        ],
+        "Id.4": [
+            "SUV"
+        ],
+        "Id.5": [
+            "SUV"
+        ],
+        "Ignis": [
+            "C",
+            "H"
+        ],
+        "Impreza": [
+            "H"
+        ],
+        "Insignia": [
+            "C",
+            "H",
+            "S"
+        ],
+        "Ioniq": [
+            "H"
+        ],
+        "Ioniq 5": [
+            "SUV"
+        ],
+        "Ix": [
+            "SUV"
+        ],
+        "Ix1": [
+            "SUV"
+        ],
+        "Ix20": [
+            "H",
+            "MPV"
+        ],
+        "Ix35": [
+            "MPV",
+            "SUV"
+        ],
+        "Ix55": [
+            "SUV"
+        ],
+        "Jazz": [
+            "H"
+        ],
+        "Jetta": [
+            "S"
+        ],
+        "Jimny": [
+            "OFF"
+        ],
+        "Jogger": [
+            "MPV"
+        ],
+        "Juke": [
+            "SUV"
+        ],
+        "Jumper": [
+            "B",
+            "FR",
+            "V",
+            "VA"
+        ],
+        "Jumpy": [
+            "B",
+            "V"
+        ],
+        "Ka": [
+            "H"
+        ],
+        "Kadjar": [
+            "MPV",
+            "SUV"
+        ],
+        "Kalos": [
+            "H",
+            "S"
+        ],
+        "Kamiq": [
+            "H",
+            "SUV"
+        ],
+        "Kangoo": [
+            "MPV",
+            "P"
+        ],
+        "Karoq": [
+            "SUV"
+        ],
+        "Kodiaq": [
+            "SUV"
+        ],
+        "Koleos": [
+            "C",
+            "SUV"
+        ],
+        "Kona": [
+            "H",
+            "SUV"
+        ],
+        "Korando": [
+            "SUV"
+        ],
+        "Kuga": [
+            "MPV",
+            "SUV"
+        ],
+        "L200": [
+            "OFF"
+        ],
+        "Lacetti": [
+            "C"
+        ],
+        "Laguna": [
+            "C",
+            "H",
+            "S"
+        ],
+        "Lancer": [
+            "H",
+            "S"
+        ],
+        "Land Cruiser": [
+            "OFF",
+            "SUV"
+        ],
+        "Latitude": [
+            "S"
+        ],
+        "Leaf": [
+            "H"
+        ],
+        "Legacy": [
+            "C"
+        ],
+        "Leon": [
+            "C",
+            "H",
+            "S"
+        ],
+        "Linea": [
+            "S"
+        ],
+        "Lodgy": [
+            "MPV"
+        ],
+        "Logan": [
+            "C",
+            "S"
+        ],
+        "M3": [
+            "CPE",
+            "S"
+        ],
+        "Malibu": [
+            "S"
+        ],
+        "Master": [
+            "B",
+            "V"
+        ],
+        "Matrix": [
+            "C",
+            "MPV"
+        ],
+        "Megane": [
+            "C",
+            "CAB",
+            "CPE",
+            "H",
+            "MPV",
+            "S"
+        ],
+        "Meriva": [
+            "MPV",
+            "S"
+        ],
+        "Micra": [
+            "H"
+        ],
+        "Mirai": [
+            "S"
+        ],
+        "Ml": [
+            "SUV"
+        ],
+        "Model 3": [
+            "S"
+        ],
+        "Model S": [
+            "S"
+        ],
+        "Model Y": [
+            "SUV"
+        ],
+        "Modus": [
+            "H",
+            "MPV"
+        ],
+        "Mokka": [
+            "H",
+            "SUV"
+        ],
+        "Mondeo": [
+            "C",
+            "H",
+            "S"
+        ],
+        "Movano": [
+            "V"
+        ],
+        "Multivan": [
+            "B"
+        ],
+        "Musso": [
+            "OFF"
+        ],
+        "Mustang": [
+            "CAB",
+            "CPE"
+        ],
+        "Mx": [
+            "CAB"
+        ],
+        "Mx 30": [
+            "SUV"
+        ],
+        "Navara": [
+            "OFF",
+            "SUV"
+        ],
+        "Nemo": [
+            "P"
+        ],
+        "New Beetle": [
+            "H"
+        ],
+        "Niro": [
+            "H",
+            "SUV"
+        ],
+        "Niva": [
+            "OFF"
+        ],
+        "Note": [
+            "H"
+        ],
+        "Nubira": [
+            "C"
+        ],
+        "Nx": [
+            "SUV"
+        ],
+        "Octavia": [
+            "C",
+            "H",
+            "S"
+        ],
+        "Octavia Scout": [
+            "C"
+        ],
+        "Omega": [
+            "C"
+        ],
+        "One": [
+            "H"
+        ],
+        "Optima": [
+            "C",
+            "S"
+        ],
+        "Orlando": [
+            "MPV"
+        ],
+        "Outback": [
+            "C"
+        ],
+        "Outlander": [
+            "SUV"
+        ],
+        "Pajero": [
+            "OFF",
+            "SUV"
+        ],
+        "Pajero Sport": [
+            "OFF"
+        ],
+        "Panamera": [
+            "S"
+        ],
+        "Panda": [
+            "H"
+        ],
+        "Partner": [
+            "MPV",
+            "P"
+        ],
+        "Passat": [
+            "C",
+            "S"
+        ],
+        "Passat Cc": [
+            "S"
+        ],
+        "Pathfinder": [
+            "OFF",
+            "SUV"
+        ],
+        "Picanto": [
+            "H"
+        ],
+        "Pixo": [
+            "H"
+        ],
+        "Polo": [
+            "H"
+        ],
+        "Praktik": [
+            "P"
+        ],
+        "Primera": [
+            "S"
+        ],
+        "Prius": [
+            "H"
+        ],
+        "Proace": [
+            "B",
+            "V"
+        ],
+        "Proace City": [
+            "P"
+        ],
+        "Proace City Verso": [
+            "MPV",
+            "P"
+        ],
+        "Proace Verso": [
+            "B"
+        ],
+        "Proceed": [
+            "C",
+            "H"
+        ],
+        "Pt Cruiser": [
+            "H"
+        ],
+        "Pulsar": [
+            "H"
+        ],
+        "Puma": [
+            "SUV"
+        ],
+        "Punto": [
+            "C",
+            "H"
+        ],
+        "Punto Evo": [
+            "H"
+        ],
+        "Q2": [
+            "SUV"
+        ],
+        "Q3": [
+            "SUV"
+        ],
+        "Q3 Sportback": [
+            "SUV"
+        ],
+        "Q5": [
+            "SUV"
+        ],
+        "Q5 Sportback": [
+            "SUV"
+        ],
+        "Q50": [
+            "S"
+        ],
+        "Q7": [
+            "SUV"
+        ],
+        "Q8": [
+            "SUV"
+        ],
+        "Qashqai": [
+            "SUV"
+        ],
+        "Qashqai+2": [
+            "SUV"
+        ],
+        "Qubo": [
+            "MPV"
+        ],
+        "Qx70": [
+            "SUV"
+        ],
+        "R": [
+            "MPV"
+        ],
+        "R7": [
+            "SUV"
+        ],
+        "Rada 1": [
+            "H"
+        ],
+        "Rada 3": [
+            "C",
+            "S"
+        ],
+        "Rada 4": [
+            "CPE",
+            "S"
+        ],
+        "Rada 5": [
+            "C",
+            "S",
+            "SUV"
+        ],
+        "Range Rover": [
+            "SUV"
+        ],
+        "Range Rover Evoque": [
+            "SUV"
+        ],
+        "Range Rover Sport": [
+            "SUV"
+        ],
+        "Range Rover Velar": [
+            "SUV"
+        ],
+        "Ranger": [
+            "OFF"
+        ],
+        "Ranger Raptor": [
+            "OFF"
+        ],
+        "Rapid": [
+            "H",
+            "S"
+        ],
+        "Rapid Spaceback": [
+            "H"
+        ],
+        "Rav4": [
+            "SUV"
+        ],
+        "Renegade": [
+            "SUV"
+        ],
+        "Rexton": [
+            "SUV"
+        ],
+        "Rifter": [
+            "MPV",
+            "P"
+        ],
+        "Rio": [
+            "H"
+        ],
+        "Roomster": [
+            "C",
+            "MPV"
+        ],
+        "Rs Q8": [
+            "SUV"
+        ],
+        "Rx300": [
+            "SUV"
+        ],
+        "S": [
+            "S"
+        ],
+        "S Cross": [
+            "SUV"
+        ],
+        "S Max": [
+            "C",
+            "MPV"
+        ],
+        "S3": [
+            "H"
+        ],
+        "S6": [
+            "C"
+        ],
+        "S60": [
+            "S"
+        ],
+        "S80": [
+            "S"
+        ],
+        "S90": [
+            "S"
+        ],
+        "Sandero": [
+            "H"
+        ],
+        "Santa Fe": [
+            "SUV"
+        ],
+        "Scala": [
+            "H"
+        ],
+        "Scenic": [
+            "MPV"
+        ],
+        "Scirocco": [
+            "H"
+        ],
+        "Scudo": [
+            "B",
+            "V"
+        ],
+        "Seagull": [
+            "H"
+        ],
+        "Sedici": [
+            "H",
+            "SUV"
+        ],
+        "Sharan": [
+            "C",
+            "MPV"
+        ],
+        "Sl": [
+            "CAB"
+        ],
+        "Slk": [
+            "CAB"
+        ],
+        "Sonata": [
+            "S"
+        ],
+        "Sorento": [
+            "SUV"
+        ],
+        "Soul": [
+            "H"
+        ],
+        "Space Star": [
+            "H"
+        ],
+        "Spacetourer": [
+            "B"
+        ],
+        "Spark": [
+            "H"
+        ],
+        "Sportage": [
+            "SUV"
+        ],
+        "Sportsvan": [
+            "MPV"
+        ],
+        "Spring": [
+            "H"
+        ],
+        "Sprinter": [
+            "B",
+            "V"
+        ],
+        "Sq7": [
+            "SUV"
+        ],
+        "Stelvio": [
+            "SUV"
+        ],
+        "Stilo": [
+            "C"
+        ],
+        "Stonic": [
+            "H",
+            "SUV"
+        ],
+        "Superb": [
+            "C",
+            "H",
+            "S"
+        ],
+        "Swace": [
+            "C"
+        ],
+        "Swift": [
+            "H"
+        ],
+        "Sx4": [
+            "H",
+            "SUV"
+        ],
+        "Sx4 S Cross": [
+            "SUV"
+        ],
+        "Symbioz": [
+            "SUV"
+        ],
+        "T Cross": [
+            "SUV"
+        ],
+        "T Roc": [
+            "SUV"
+        ],
+        "Taigo": [
+            "SUV"
+        ],
+        "Talento": [
+            "V"
+        ],
+        "Talisman": [
+            "C",
+            "S"
+        ],
+        "Tarraco": [
+            "SUV"
+        ],
+        "Terracan": [
+            "OFF"
+        ],
+        "Tge": [
+            "V"
+        ],
+        "Thalia": [
+            "S"
+        ],
+        "Thema": [
+            "S"
+        ],
+        "Tiguan": [
+            "SUV"
+        ],
+        "Tiguan Allspace": [
+            "SUV"
+        ],
+        "Tiida": [
+            "S"
+        ],
+        "Tipo": [
+            "C",
+            "H",
+            "S"
+        ],
+        "Tivoli": [
+            "SUV"
+        ],
+        "Toledo": [
+            "H",
+            "S"
+        ],
+        "Tonale": [
+            "SUV"
+        ],
+        "Torres": [
+            "SUV"
+        ],
+        "Touareg": [
+            "SUV"
+        ],
+        "Touran": [
+            "C",
+            "MPV"
+        ],
+        "Tourneo Connect": [
+            "MPV",
+            "P"
+        ],
+        "Tourneo Courier": [
+            "P"
+        ],
+        "Tourneo Custom": [
+            "B"
+        ],
+        "Townstar": [
+            "P"
+        ],
+        "Trafic": [
+            "B",
+            "V"
+        ],
+        "Trajet": [
+            "MPV"
+        ],
+        "Transit": [
+            "B",
+            "V",
+            "VA"
+        ],
+        "Transit Connect": [
+            "MPV",
+            "P"
+        ],
+        "Transit Courier": [
+            "P"
+        ],
+        "Transit Custom": [
+            "B",
+            "V"
+        ],
+        "Transporter": [
+            "B",
+            "V",
+            "VA"
+        ],
+        "Traveller": [
+            "B"
+        ],
+        "Trax": [
+            "SUV"
+        ],
+        "Trida A": [
+            "C",
+            "H"
+        ],
+        "Trida B": [
+            "H"
+        ],
+        "Trida C": [
+            "C",
+            "S"
+        ],
+        "Trida E": [
+            "C",
+            "CPE",
+            "S"
+        ],
+        "Trida M": [
+            "C",
+            "SUV"
+        ],
+        "Tt": [
+            "CPE"
+        ],
+        "Tt Coupe": [
+            "CPE"
+        ],
+        "Tucson": [
+            "SUV"
+        ],
+        "Twingo": [
+            "H"
+        ],
+        "U Tour": [
+            "MPV"
+        ],
+        "Up": [
+            "CPE",
+            "H"
+        ],
+        "Up!": [
+            "H"
+        ],
+        "V": [
+            "B"
+        ],
+        "V40": [
+            "C",
+            "H"
+        ],
+        "V50": [
+            "C"
+        ],
+        "V60": [
+            "C"
+        ],
+        "V60 Cross Country": [
+            "C"
+        ],
+        "V70": [
+            "C"
+        ],
+        "V90": [
+            "C",
+            "SUV"
+        ],
+        "V90 Cross Country": [
+            "C"
+        ],
+        "Vectra": [
+            "H",
+            "S"
+        ],
+        "Venga": [
+            "C",
+            "H",
+            "MPV"
+        ],
+        "Verso": [
+            "C",
+            "MPV"
+        ],
+        "Viano": [
+            "B",
+            "V"
+        ],
+        "Vitara": [
+            "SUV"
+        ],
+        "Vito": [
+            "B",
+            "V"
+        ],
+        "Vivaro": [
+            "B",
+            "V"
+        ],
+        "Voyager": [
+            "MPV"
+        ],
+        "Wrangler": [
+            "OFF"
+        ],
+        "X": [
+            "OFF"
+        ],
+        "X Trail": [
+            "SUV"
+        ],
+        "X1": [
+            "C",
+            "SUV"
+        ],
+        "X2": [
+            "SUV"
+        ],
+        "X3": [
+            "SUV"
+        ],
+        "X4": [
+            "SUV"
+        ],
+        "X5": [
+            "SUV"
+        ],
+        "X6": [
+            "SUV"
+        ],
+        "X7": [
+            "SUV"
+        ],
+        "Xantia": [
+            "S"
+        ],
+        "Xc40": [
+            "SUV"
+        ],
+        "Xc60": [
+            "SUV"
+        ],
+        "Xc70": [
+            "C"
+        ],
+        "Xc90": [
+            "SUV"
+        ],
+        "Xceed": [
+            "H",
+            "SUV"
+        ],
+        "Xe": [
+            "S"
+        ],
+        "Xf": [
+            "C",
+            "S"
+        ],
+        "Xj": [
+            "S"
+        ],
+        "Xsara": [
+            "S"
+        ],
+        "Xsara Picasso": [
+            "MPV"
+        ],
+        "Xv": [
+            "C",
+            "SUV"
+        ],
+        "Yaris": [
+            "C",
+            "H"
+        ],
+        "Yaris Cross": [
+            "SUV"
+        ],
+        "Yeti": [
+            "C",
+            "SUV"
+        ],
+        "Zafira": [
+            "MPV"
+        ],
+        "Zafira Life": [
+            "B"
+        ],
+        "Zafira Tourer": [
+            "MPV"
+        ],
+        "Zoe": [
+            "H"
+        ],
+        "Zs": [
+            "SUV"
+        ],
+        "Zs Suv": [
+            "SUV"
+        ]
+    }
+}
