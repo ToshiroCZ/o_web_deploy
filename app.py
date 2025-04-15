@@ -4,6 +4,7 @@ Používá předem natrénovaný model (např. XGBoost), normalizaci a mapován�
 """
 
 from flask import Flask, render_template, request, jsonify
+from datetime import datetime
 import pandas as pd
 import numpy as np
 import json
@@ -19,7 +20,7 @@ scaler = joblib.load("model/scaler.pkl")    # Normalizační scaler
 expected_columns = joblib.load("model/features.pkl")  # Očekávané vstupní sloupce
 
 # === Načtení mapování hodnot ===
-# Obsahuje všechny možné hodnoty pro značky, modely, paliva, karoserie apod.
+# Mapy pro dropdowny
 with open("maps/value_mapping.json", "r", encoding="utf-8") as f:
     value_map = json.load(f)
 
@@ -62,13 +63,13 @@ def index():
 
             # Predikce
             prediction = model.predict(df)
-            predicted_price = round(prediction[0], 2)
+            predicted_price = round(prediction[0])
 
         except Exception as e:
             print("Chyba při predikci:", e)
 
     # Zobrazení stránky s výsledkem nebo formulářem
-    return render_template("index.html", predicted_price=predicted_price, values=value_map)
+    return render_template("index.html", predicted_price=predicted_price, values=value_map, current_year=datetime.now().year)
 
 
 @app.route("/get_models")

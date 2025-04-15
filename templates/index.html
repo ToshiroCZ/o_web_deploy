@@ -21,74 +21,80 @@
         }
 
         .form-container {
-            max-width: 700px;
+            max-width: 720px;
             margin: auto;
-            padding-top: 30px;
+            padding: 30px;
+            margin-top: 40px;
+            border-radius: 12px;
+            background-color: white;
+            box-shadow: 0 0 18px rgba(0, 0, 0, 0.1);
         }
     </style>
 </head>
 <body class="bg-light">
 
-<div class="container form-container">
-    <h1 class="mb-4 text-center">Odhad ceny automobilu</h1>
-    <form id="predictForm" method="POST" novalidate>
-        <div class="row g-3">
-            <div class="col-md-6">
-                <label for="make" class="form-label">Značka *</label>
-                <select class="form-select" id="make" name="make" required>
-                    <option value="" disabled selected>Vyber značku</option>
-                </select>
+<div class="container">
+    <div class="form-container">
+        <h1 class="mb-4 text-center">Odhad ceny automobilu</h1>
+        <form id="predictForm" method="POST">
+            <div class="row g-3">
+                <div class="col-md-6">
+                    <label for="make" class="form-label">Značka *</label>
+                    <select class="form-select" id="make" name="make" required>
+                        <option value="" disabled selected>Vyber značku</option>
+                    </select>
+                </div>
+                <div class="col-md-6">
+                    <label for="model" class="form-label">Model *</label>
+                    <select class="form-select" id="model" name="model" required>
+                        <option value="" disabled selected>Vyber model</option>
+                    </select>
+                </div>
+                <div class="col-md-6">
+                    <label for="year" class="form-label">Rok výroby *</label>
+                    <input type="number" class="form-control" name="year" id="year" min="1886" max="{{current_year}}" required>
+                </div>
+                <div class="col-md-6">
+                    <label for="mileage" class="form-label">Najeté km *</label>
+                    <input type="number" class="form-control" name="mileage" id="mileage" min="0" required>
+                </div>
+                <div class="col-md-6">
+                    <label for="engine_power" class="form-label">Výkon motoru (kW) *</label>
+                    <input type="number" class="form-control" name="engine_power" id="engine_power" min="0" required>
+                </div>
+                <div class="col-md-6">
+                    <label for="fuel_type" class="form-label">Palivo *</label>
+                    <select class="form-select" id="fuel_type" name="fuel_type" required>
+                        <option value="" disabled selected>Vyber typ paliva</option>
+                    </select>
+                </div>
+                <div class="col-md-6">
+                    <label for="transmission" class="form-label">Převodovka *</label>
+                    <select class="form-select" id="transmission" name="transmission" required>
+                        <option value="" disabled selected>Vyber převodovku</option>
+                    </select>
+                </div>
+                <div class="col-md-6">
+                    <label for="body_type" class="form-label">Typ karoserie *</label>
+                    <select class="form-select" id="body_type" name="body_type" required>
+                        <option value="" disabled selected>Vyber karoserii</option>
+                    </select>
+                </div>
             </div>
-            <div class="col-md-6">
-                <label for="model" class="form-label">Model *</label>
-                <select class="form-select" id="model" name="model" required>
-                    <option value="" disabled selected>Vyber model</option>
-                </select>
-            </div>
-            <div class="col-md-6">
-                <label for="year" class="form-label">Rok výroby *</label>
-                <input type="number" class="form-control" name="year" id="year" min="1886" max="{{ current_year }}" required>
-            </div>
-            <div class="col-md-6">
-                <label for="mileage" class="form-label">Najeté km *</label>
-                <input type="number" class="form-control" name="mileage" id="mileage" min="0" required>
-            </div>
-            <div class="col-md-6">
-                <label for="engine_power" class="form-label">Výkon motoru (kW) *</label>
-                <input type="number" class="form-control" name="engine_power" id="engine_power" min="0" required>
-            </div>
-            <div class="col-md-6">
-                <label for="fuel_type" class="form-label">Palivo *</label>
-                <select class="form-select" id="fuel_type" name="fuel_type" required>
-                    <option value="" disabled selected>Vyber palivo</option>
-                </select>
-            </div>
-            <div class="col-md-6">
-                <label for="transmission" class="form-label">Převodovka *</label>
-                <select class="form-select" id="transmission" name="transmission" required>
-                    <option value="" disabled selected>Vyber převodovku</option>
-                </select>
-            </div>
-            <div class="col-md-6">
-                <label for="body_type" class="form-label">Typ karoserie *</label>
-                <select class="form-select" id="body_type" name="body_type" required>
-                    <option value="" disabled selected>Vyber karoserii</option>
-                </select>
-            </div>
-        </div>
 
-        <div class="d-flex justify-content-center mt-4">
-            <button type="submit" class="btn btn-primary px-5">Spočítat cenu</button>
-            <div id="loader" class="loader ms-3"></div>
-        </div>
-    </form>
-
-    <div id="result" class="text-center mt-4">
-        {% if predicted_price %}
-            <div class="alert alert-success mt-3">
-                <h4>Odhadovaná cena: {{ predicted_price }} Kč</h4>
+            <div class="d-flex justify-content-center mt-4">
+                <button type="submit" class="btn btn-primary px-5">Spočítat cenu</button>
+                <div id="loader" class="loader ms-3"></div>
             </div>
-        {% endif %}
+        </form>
+
+        <div id="result" class="text-center mt-4">
+            {% if predicted_price %}
+                <div class="alert alert-success mt-3">
+                    <h4>Odhadovaná cena: {{ predicted_price }} Kč</h4>
+                </div>
+            {% endif %}
+        </div>
     </div>
 </div>
 
@@ -120,7 +126,6 @@
         "OFF": "Offroad"
     };
 
-    // Naplň značky
     mapping.makes.forEach(make => {
         const option = document.createElement("option");
         option.value = make;
@@ -128,7 +133,6 @@
         makeSelect.appendChild(option);
     });
 
-    // Po výběru značky načti modely
     makeSelect.addEventListener("change", async () => {
         const selectedMake = makeSelect.value;
         modelSelect.innerHTML = `<option value="" disabled selected>Vyber model</option>`;
@@ -146,13 +150,11 @@
         });
     });
 
-    // Po výběru modelu načti palivo, převodovku, karoserii
     modelSelect.addEventListener("change", async () => {
         const selectedModel = modelSelect.value;
         const res = await fetch(`/get_options?model=${selectedModel}`);
         const data = await res.json();
 
-        // Palivo
         fuelSelect.innerHTML = `<option value="" disabled selected>Vyber typ paliva</option>`;
         data.fuel_types.forEach(fuel => {
             const option = document.createElement("option");
@@ -161,7 +163,6 @@
             fuelSelect.appendChild(option);
         });
 
-        // Převodovka
         transmissionSelect.innerHTML = `<option value="" disabled selected>Vyber převodovku</option>`;
         data.transmissions.forEach(trans => {
             const option = document.createElement("option");
@@ -170,7 +171,6 @@
             transmissionSelect.appendChild(option);
         });
 
-        // Karoserie
         bodySelect.innerHTML = `<option value="" disabled selected>Vyber karoserii</option>`;
         data.body_types.forEach(body => {
             const option = document.createElement("option");
@@ -180,21 +180,21 @@
         });
     });
 
-    // Loader + zobrazení výsledku
     const form = document.getElementById("predictForm");
     const loader = document.getElementById("loader");
     const result = document.getElementById("result");
 
     form.addEventListener("submit", async function (e) {
+
         e.preventDefault();
         loader.style.display = "inline-block";
-        result.innerHTML = "";
 
         const formData = new FormData(form);
         const response = await fetch("/", {
             method: "POST",
             body: formData
         });
+
         const text = await response.text();
         loader.style.display = "none";
 
@@ -203,9 +203,10 @@
         const newResult = doc.querySelector(".alert");
 
         if (newResult) {
+            result.innerHTML = "";
             result.appendChild(newResult);
         } else {
-            result.innerHTML = `<div class="alert alert-danger">Něco se pokazilo. Zkuste to znovu.</div>`;
+            result.innerHTML = `<div class="alert alert-danger">Něco se pokazilo. Zkuste to znovu později.</div>`;
         }
     });
 </script>
